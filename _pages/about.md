@@ -22,6 +22,8 @@ Our research portfolios include outcome measure evaluation, occupational and pub
 
 Our research
 ======
+<br>
+
 **Clinical outcomes research**
 * Arthroplasty
 * Clinical Epidemiology
@@ -35,6 +37,8 @@ Our research
 * Spine Research
 * Trauma
 
+<br>
+
 **Health services research**
 * Health Technology Assessment
 * Outcome Assessment Instruments
@@ -47,4 +51,23 @@ Postgraduate opportunities
 Applicants must have a higher research degree or clinical doctorate, a sound background in epidemiology, clinical epidemiology, or economics, and a strong aptitude for mathematics and/or statistics. The PhD programme is 3 years full-time study. The University of Otago is a research-intensive university, rated Five Stars Plus for quality by QS World University Rankings. Tuition scholarships are available for applicants with a strong academic record.
 
 For more information, please contact Professor J. Haxby Abbott PhD, DPT, FNZCP
-Email: haxby.abbott@otago.ac.nz
+
+Email: <haxby.abbott@otago.ac.nz>
+
+Our people
+======
+* Professor Haxby Abbott
+* Professor David Gwynne-Jones
+* Dr Saurab Sharma
+* Dr Yana Pryymachenko
+
+PhD students
+* Anupa Pathak
+
+Contact us
+======
+We welcome your enquiries.
+
+Please email Professor Haxby Abbott <haxby.abbott@otago.ac.nz>
+
+![CMOR logo](https://www.otago.ac.nz/cs/groups/public/@dsmwebmaster/documents/webcontent/otago692476.jpg)
