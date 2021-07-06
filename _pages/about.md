@@ -50,21 +50,24 @@ Postgraduate opportunities
 
 Applicants must have a higher research degree or clinical doctorate, a sound background in epidemiology, clinical epidemiology, or economics, and a strong aptitude for mathematics and/or statistics. The PhD programme is 3 years full-time study. The University of Otago is a research-intensive university, rated Five Stars Plus for quality by QS World University Rankings. Tuition scholarships are available for applicants with a strong academic record.
 
-For more information, please contact Professor J. Haxby Abbott PhD, DPT, FNZCP
-
+For more information, please contact Professor J. Haxby Abbott PhD, DPT, FNZCP  
 Email: <haxby.abbott@otago.ac.nz>
 
 Our people
 ======
 * [Professor Haxby Abbott](https://www.otago.ac.nz/dsm/people/expertise/profile/?id=797)  
 *Research Professor*
-* [Professor David Gwynne-Jones](https://www.otago.ac.nz/dsm-surgery/staff/expertise/profile/index.html?id=723)
-* [Dr Saurab Sharma](https://www.otago.ac.nz/dsm-surgery/staff/expertise/profile/index.html?id=3317)
-* [Dr Ross Wilson](https://www.otago.ac.nz/medical-school/people/expertise/profile/index.html?id=2457)
-* Dr Yana Pryymachenko
+* [Professor David Gwynne-Jones](https://www.otago.ac.nz/dsm-surgery/staff/expertise/profile/index.html?id=723)  
+*Clinical Leader*
+* [Dr Ross Wilson](https://www.otago.ac.nz/medical-school/people/expertise/profile/index.html?id=2457)  
+*Research Fellow*
+* [Dr Saurab Sharma](https://www.otago.ac.nz/dsm-surgery/staff/expertise/profile/index.html?id=3317)  
+*Postdoctoral Fellow*
+* Dr Yana Pryymachenko  
+*Postdoctoral Fellow*
 
 PhD students
-* [Anupa Pathak]
+* [Anupa Pathak](https://www.otago.ac.nz/dsm-surgery/staff/expertise/profile/index.html?id=3318)
 
 Contact us
 ======
