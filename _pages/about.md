@@ -56,13 +56,15 @@ Email: <haxby.abbott@otago.ac.nz>
 
 Our people
 ======
-* Professor Haxby Abbott
-* Professor David Gwynne-Jones
-* Dr Saurab Sharma
+* [Professor Haxby Abbott](https://www.otago.ac.nz/dsm/people/expertise/profile/?id=797)  
+*Research Professor*
+* [Professor David Gwynne-Jones](https://www.otago.ac.nz/dsm-surgery/staff/expertise/profile/index.html?id=723)
+* [Dr Saurab Sharma](https://www.otago.ac.nz/dsm-surgery/staff/expertise/profile/index.html?id=3317)
+* [Dr Ross Wilson](https://www.otago.ac.nz/medical-school/people/expertise/profile/index.html?id=2457)
 * Dr Yana Pryymachenko
 
 PhD students
-* Anupa Pathak
+* [Anupa Pathak]
 
 Contact us
 ======
