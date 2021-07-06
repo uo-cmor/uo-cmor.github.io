@@ -7,17 +7,17 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Centre for Musculoskeletal Outcomes Research"
+title                    : "Centre for Musculoskeletal Outcomes Research<br><em>Te Pokapū Rangahau Hauora Wheua</em>"
 title_separator          : "-"
 name                     : &name "Centre for Musculoskeletal Outcomes Research"
 description              : &description "Centre for Musculoskeletal Outcomes Research, University of Otago"
 url                      : https://uo-cmor.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/uo-cmor/uo-cmor.github.io"
-teaser                   : "500x300.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
+future                   : false
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
@@ -84,7 +84,7 @@ author:
   avatar           : "https://www.otago.ac.nz/cs/groups/public/@dsmwebmaster/documents/webcontent/otago692474.jpg"
   bio              : "Centre for Musculoskeletal Outcomes Research, University of Otago"
   location         : "Dunedin, New Zealand"
-  employer         : "University of Otago"
+  employer         : 
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            :
