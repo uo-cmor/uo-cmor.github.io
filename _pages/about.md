@@ -71,4 +71,4 @@ We welcome your enquiries.
 
 Please email Professor Haxby Abbott <haxby.abbott@otago.ac.nz>
 
-![CMOR logo](https://www.otago.ac.nz/cs/groups/public/@dsmwebmaster/documents/webcontent/otago692476.jpg)
+![CMOR logo](/images/cmor-banner.png)
