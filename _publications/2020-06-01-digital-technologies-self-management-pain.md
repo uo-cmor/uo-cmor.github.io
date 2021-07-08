@@ -10,4 +10,4 @@ citation: 'Slater, H., Stinson, J.N., Jordan, J.E. and 6 more (...) (2020).Evalu
 
 <a href='https://doi.org/10.2196/18315'>Download paper here</a>
 
-Recommended citation: Slater, H., Stinson, J.N., Jordan, J.E. and 6 more (...) (2020).Evaluation of Digital Technologies Tailored to Support Young People�s Self-Management of Musculoskeletal Pain: Mixed Methods Study. Journal of Medical Internet Research,22(6)
+Recommended citation: Slater, H., Stinson, J.N., Jordan, J.E. and 6 more (...) (2020).Evaluation of Digital Technologies Tailored to Support Young People's Self-Management of Musculoskeletal Pain: Mixed Methods Study. Journal of Medical Internet Research,22(6)
