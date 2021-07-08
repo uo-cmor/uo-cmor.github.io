@@ -1,5 +1,5 @@
 ---
-title: "Total hip and knee arthroplasty are highly cost-effective procedures: The importance of duration of follow-up"
+title: "Total hip and knee arthroplasty are highly cost-effective procedures: The importance of duration of follow-up"
 collection: publications
 permalink: /publication/2021-01-21-hip-and-knee-arthroplasties-cost-effective
 date: 2021-01-21
