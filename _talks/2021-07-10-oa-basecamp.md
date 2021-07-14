@@ -7,6 +7,7 @@ venue: "Grafton Campus, University of Auckland"
 date: 2021-07-10
 location: "Auckland, New Zealand"
 ---
+![oa-basecamp-logo](https://az659834.vo.msecnd.net/eventsairaueprod/production-otago-public/4580665152594de9835f967cbad9bcbf)
 
 The [Taupuni Hao Huatau Kaikōiwi Osteoarthritis Basecamp](https://events.otago.ac.nz/2021-osteoarthritis-basecamp/),
 organised by CMOR in association with AUT and the University of Auckland, brought together more than 80 clinicians,
