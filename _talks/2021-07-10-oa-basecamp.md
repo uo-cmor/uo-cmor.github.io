@@ -1,5 +1,5 @@
 ---
-Title: "Taupuni Hao Huatau Kaikōiwi Osteoarthritis Basecamp"
+title: "Taupuni Hao Huatau Kaikōiwi Osteoarthritis Basecamp"
 collection: talks
 type: "Conference"
 permalink: /talks/2021-07-10-oa-basecamp
