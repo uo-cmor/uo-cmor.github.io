@@ -7,7 +7,3 @@ venue: 'Journal of Pain Research'
 paperurl: 'https://doi.org/10.2147/JPR.S153061'
 citation: 'Sharma S, Thibault P, Abbott JH, Jensen MP. Clinimetric properties of the nepali version of the pain Catastrophizing scale in individuals with chronic pain. Journal of Pain Research 2018;11:265-276.'
 ---
-
-<a href='https://doi.org/10.2147/JPR.S153061'>Download paper here</a>
-
-Recommended citation: Sharma S, Thibault P, Abbott JH, Jensen MP. Clinimetric properties of the nepali version of the pain Catastrophizing scale in individuals with chronic pain. Journal of Pain Research 2018;11:265-276.

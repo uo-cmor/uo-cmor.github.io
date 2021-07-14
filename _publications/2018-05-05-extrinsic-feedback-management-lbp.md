@@ -7,7 +7,3 @@ venue: 'BMJ Open'
 paperurl: 'https://doi.org/10.1136/bmjopen-2017-021259'
 citation: 'Ribeiro DC, Macznik AK, Milosavljevic S, Abbott JH. Effectiveness of extrinsic feedback for management of non-specific low back pain: A systematic review protocol. BMJ Open 2018;8:e021259.'
 ---
-
-<a href='https://doi.org/10.1136/bmjopen-2017-021259'>Download paper here</a>
-
-Recommended citation: Ribeiro DC, Macznik AK, Milosavljevic S, Abbott JH. Effectiveness of extrinsic feedback for management of non-specific low back pain: A systematic review protocol. BMJ Open 2018;8:e021259.

@@ -7,7 +7,3 @@ venue: 'Pain Medicine'
 paperurl: 'https://doi.org/10.1093/PM/PNZ373'
 citation: 'Sharma S, Ferreira-Valente A, Williams ACdC, et al. Group differences between countries and between languages in pain-related beliefs, coping, and catastrophizing in chronic pain: A systematic review. Pain Medicine 2020;21(9):1847-1862.'
 ---
-
-<a href='https://doi.org/10.1093/PM/PNZ373'>Download paper here</a>
-
-Recommended citation: Sharma S, Ferreira-Valente A, Williams ACdC, et al. Group differences between countries and between languages in pain-related beliefs, coping, and catastrophizing in chronic pain: A systematic review. Pain Medicine 2020;21(9):1847-1862.

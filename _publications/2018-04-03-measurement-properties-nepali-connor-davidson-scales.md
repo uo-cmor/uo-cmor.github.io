@@ -7,7 +7,3 @@ venue: 'Health and Quality of Life Outcomes'
 paperurl: 'https://doi.org/10.1186/s12955-018-0884-0'
 citation: 'Sharma S, Pathak A, Abbott JH, et al. Measurement properties of the Nepali version of the Connor Davidson resilience scales in individuals with chronic pain. Health and Quality of Life Outcomes 2018;16:56.'
 ---
-
-<a href='https://doi.org/10.1186/s12955-018-0884-0'>Download paper here</a>
-
-Recommended citation: Sharma S, Pathak A, Abbott JH, et al. Measurement properties of the Nepali version of the Connor Davidson resilience scales in individuals with chronic pain. Health and Quality of Life Outcomes 2018;16:56.

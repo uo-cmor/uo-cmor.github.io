@@ -7,7 +7,3 @@ venue: 'BMJ Open'
 paperurl: 'https://doi.org/10.1136/bmjopen-2018-022423'
 citation: 'Sharma S, Jensen MP, Moseley GL, Abbott JH. Pain education for patients with non-specific low back pain in Nepal: Protocol of a feasibility randomised clinical trial (PEN-LBP Trial). BMJ Open 2018;8:e022423.'
 ---
-
-<a href='https://doi.org/10.1136/bmjopen-2018-022423'>Download paper here</a>
-
-Recommended citation: Sharma S, Jensen MP, Moseley GL, Abbott JH. Pain education for patients with non-specific low back pain in Nepal: Protocol of a feasibility randomised clinical trial (PEN-LBP Trial). BMJ Open 2018;8:e022423.
