@@ -7,9 +7,11 @@ We are a multidisciplinary team of clinical epidemiologists, health economists, 
 
 ## Director
 
-<img src="/images/bio-photo.jpg" alt="2021 Aotearoa New Zealand OA Basecamp logo" style="float:left;margin-right:10px" width="168" height="117" />
+<img src="/images/prof-haxby-abbott.jpg" alt="Professor Haxby Abbott" style="float:left;margin-right:10px" width="150" height="150" />
 [Professor Haxby Abbott](https://www.otago.ac.nz/dsm/people/expertise/profile/?id=797)  
 *Research Professor*
+
+Professor Haxby Abbott is a clinical epidemiologist and New Zealand's leading osteoarthritis researcher. His research is based in the disciplines of clinical epidemiology, outcomes research, and health economics, including the effectiveness and cost-effectiveness of interventions for hip and knee osteoarthritis, measurement properties of outcome measures in clinical practice and research, and the accuracy and validity of clinical examination procedures.
 
 <br>
 
