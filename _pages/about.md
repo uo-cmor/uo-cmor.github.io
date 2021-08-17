@@ -1,13 +1,13 @@
 ---
 permalink: /
 title: "Centre for Musculoskeletal Outcomes Research"
-excerpt: "About us"
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 header:
-  overlay_image: /images/dsmsurgery-background-insidepage.jpg
+  overlay_image: dsmsurgery-background-insidepage.jpg
   show_overlay_excerpt: false
 ---
 
