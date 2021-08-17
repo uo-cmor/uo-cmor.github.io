@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Centre for Musculoskeletal Outcomes Research<br><em>Te Pokapū Rangahau Hauora Wheua</em>"
+title                    : "Centre for Musculoskeletal <br>Outcomes Research"
 title_separator          : "-"
 name                     : &name "Centre for Musculoskeletal Outcomes Research"
 description              : &description "Centre for Musculoskeletal Outcomes Research, University of Otago"
