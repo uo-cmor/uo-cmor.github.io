@@ -83,7 +83,7 @@ analytics:
 # Site Author
 author:
   name             : "CMOR"
-  avatar           : "/images/cmor-logo.jpg"
+  avatar           : "cmor-logo.jpg"
   bio              : "University of Otago"
   location         : "Dunedin, New Zealand"
   employer         : 
