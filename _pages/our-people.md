@@ -1,7 +1,6 @@
 ---
 permalink: /our-people/
 title: "Our People"
-modified: 2021-08-18
 ---
 
 We are a multidisciplinary team of clinical epidemiologists, health economists, outcomes researchers, and clinicians.
@@ -11,6 +10,8 @@ We are a multidisciplinary team of clinical epidemiologists, health economists, 
 <img src="/images/bio-photo.jpg" alt="2021 Aotearoa New Zealand OA Basecamp logo" style="float:left;margin-right:10px" width="168" height="117" />
 [Professor Haxby Abbott](https://www.otago.ac.nz/dsm/people/expertise/profile/?id=797)  
 *Research Professor*
+
+<br>
 
 <br>
 
