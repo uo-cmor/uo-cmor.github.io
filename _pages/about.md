@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 header:
   overlay_image: /images/dsmsurgery-background-insidepage.jpg
+  show_overlay_excerpt: false
 ---
 
 The Centre for Musculoskeletal Outcomes Research (CMOR) aims to conduct and disseminate research addressing decision-making and outcomes for patients with musculoskeletal disorders.
