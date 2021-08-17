@@ -3,11 +3,11 @@ permalink: /our-people/
 title: "Our People"
 ---
 
-We are a multidisciplinary team of clinical epidemiologists, health economists, outcomes researchers, and clinicians.
+We are a multidisciplinary team of clinical epidemiologists, health economists, outcomes researchers, and clinicians, based in the Department of Surgical Sciences, University of Otago.
 
 ## Director
 
-<img src="/images/prof-haxby-abbott.jpg" alt="Professor Haxby Abbott" style="float:left;margin-right:10px" width="150" height="150" />
+<img src="/images/prof-haxby-abbott.jpeg" alt="Professor Haxby Abbott" style="float:left;margin-right:10px" width="150" height="150" />
 [Professor Haxby Abbott](https://www.otago.ac.nz/dsm/people/expertise/profile/?id=797)  
 *Research Professor*
 
