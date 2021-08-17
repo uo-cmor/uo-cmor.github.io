@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Centre for Musculoskeletal Outcomes Research<br><em>Te Pokapū Rangahau Hauora Wheua</em>"
+title                    : "Centre for Musculoskeletal <br>Outcomes Research"
 title_separator          : "-"
 name                     : &name "Centre for Musculoskeletal Outcomes Research"
 description              : &description "Centre for Musculoskeletal Outcomes Research, University of Otago"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "CMOR"
+  name             : "Centre for Musculoskeletal Outcomes Research <br><em>Te Pokapū Rangahau Hauora Wheua</em>"
   avatar           : "https://www.otago.ac.nz/cs/groups/public/@dsmwebmaster/documents/webcontent/otago692474.jpg"
-  bio              : "Centre for Musculoskeletal Outcomes Research, University of Otago"
+  bio              : "University of Otago"
   location         : "Dunedin, New Zealand"
   employer         : 
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
