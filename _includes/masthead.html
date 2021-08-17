@@ -11,7 +11,7 @@
             {% unless logo_path == empty %}
               <img src="{{ logo_path | relative_url }}" alt="{{ site.title }}">
             {% endunless %}
-            {{ site.title }}
+            {{ site.masthead_title | default: site.title }}
           </a></li>
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}

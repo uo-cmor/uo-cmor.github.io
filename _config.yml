@@ -8,6 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "CMOR"
+masthead_title           : "Centre for Musculoskeletal Outcomes Research<br><em>University of Otago</em>"
 logo                     : "/images/cmor-logo-small.png"
 title_separator          : "|"
 name                     : &name "Centre for Musculoskeletal Outcomes Research"

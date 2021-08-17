@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Centre for Musculoskeletal Outcomes Research<br><em>Te Pokapū Rangahau Hauora Wheua</em>"
+title: "Centre for Musculoskeletal Outcomes Research <br><em>Te Pokapū Rangahau Hauora Wheua</em>"
 excerpt: ""
 author_profile: true
 redirect_from: 
