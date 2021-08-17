@@ -49,6 +49,7 @@ Applicants must have a higher research degree or clinical doctorate, a sound bac
 For more information, please contact Professor J. Haxby Abbott PhD, DPT, FNZCP  
 Email: <haxby.abbott@otago.ac.nz>
 
+<!-- 
 Our people
 ------
 * [Professor Haxby Abbott](https://www.otago.ac.nz/dsm/people/expertise/profile/?id=797)  
@@ -64,6 +65,7 @@ Our people
 
 PhD students
 * [Anupa Pathak](https://www.otago.ac.nz/dsm-surgery/staff/expertise/profile/index.html?id=3318)
+-->
 
 Contact us
 ------
