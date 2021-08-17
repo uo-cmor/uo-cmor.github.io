@@ -8,8 +8,6 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "CMOR"
-subtitle                 : "<em>Te Pokapū Rangahau Hauora Wheua</em>"
-masthead_title           : "Centre for Musculoskeletal Outcomes Research"
 logo                     : "/images/cmor-logo-small.png"
 title_separator          : "|"
 name                     : &name "Centre for Musculoskeletal Outcomes Research"
