@@ -11,6 +11,7 @@ title                    : "Centre for Musculoskeletal <br>Outcomes Research"
 title_separator          : "-"
 name                     : &name "Centre for Musculoskeletal Outcomes Research"
 description              : &description "Centre for Musculoskeletal Outcomes Research, University of Otago"
+logo                     : "/images/cmor-logo.jpg"
 url                      : https://uo-cmor.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/uo-cmor/uo-cmor.github.io"
@@ -81,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "CMOR"
-  avatar           : "https://www.otago.ac.nz/cs/groups/public/@dsmwebmaster/documents/webcontent/otago692474.jpg"
+  avatar           : "/images/cmor-logo.jpg"
   bio              : "Centre for Musculoskeletal Outcomes Research, University of Otago"
   location         : "Dunedin, New Zealand"
   employer         : 
