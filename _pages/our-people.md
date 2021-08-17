@@ -15,8 +15,10 @@ We are a multidisciplinary team of clinical epidemiologists, health economists, 
 
 <br>
 
+## Research Staff
+
 * [Professor David Gwynne-Jones](https://www.otago.ac.nz/dsm-surgery/staff/expertise/profile/index.html?id=723)  
-*Clinical Leader*
+*Clinical Leader, Orthopaedic Department, Dunedin Hospital*
 * [Dr Ross Wilson](https://www.otago.ac.nz/medical-school/people/expertise/profile/index.html?id=2457)  
 *Research Fellow*
 * [Dr Saurab Sharma](https://www.otago.ac.nz/dsm-surgery/staff/expertise/profile/index.html?id=3317)  
@@ -24,5 +26,6 @@ We are a multidisciplinary team of clinical epidemiologists, health economists, 
 * Dr Yana Pryymachenko  
 *Postdoctoral Fellow*
 
-<strong>PhD students</strong>
+## PhD students
+
 * [Anupa Pathak](https://www.otago.ac.nz/dsm-surgery/staff/expertise/profile/index.html?id=3318)
