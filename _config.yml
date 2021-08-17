@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Centre for Musculoskeletal Outcomes Research <br><em>Te Pokapū Rangahau Hauora Wheua</em>"
-  avatar           : "https://www.otago.ac.nz/cs/groups/public/@dsmwebmaster/documents/webcontent/otago692474.jpg"
+  avatar           : "/images/cmor-logo.jpg"
   bio              : "University of Otago"
   location         : "Dunedin, New Zealand"
   employer         : 
