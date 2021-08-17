@@ -10,6 +10,7 @@ locale                   : "en-US"
 title                    : "CMOR"
 subtitle                 : "<em>Te Pokapū Rangahau Hauora Wheua</em>"
 masthead_title           : "Centre for Musculoskeletal Outcomes Research"
+logo                     : "cmor-logo-small.png"
 title_separator          : "|"
 name                     : &name "Centre for Musculoskeletal Outcomes Research"
 description              : &description "Centre for Musculoskeletal Outcomes Research, University of Otago"
@@ -257,7 +258,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Pacific/Auckland # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
