@@ -7,7 +7,7 @@ venue: "Grafton Campus, University of Auckland"
 date: 2021-07-10
 location: "Auckland, New Zealand"
 ---
-<img src="images/oa-basecamp.jpg" alt="2021 Aotearoa New Zealand OA Basecamp logo" style="float:left;margin-right:10px" width="168" height="117" />
+<img src="/images/oa-basecamp.jpg" alt="2021 Aotearoa New Zealand OA Basecamp logo" style="float:left;margin-right:10px" width="168" height="117" />
 The [Taupuni Hao Huatau Kaikōiwi Osteoarthritis Basecamp](https://events.otago.ac.nz/2021-osteoarthritis-basecamp/),
 organised by CMOR in association with AUT and the University of Auckland, brought together more than 80 clinicians,
 researchers, and others with interest in managing osteoarthritis (OA) in Aotearoa New Zealand.
