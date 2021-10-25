@@ -1,11 +1,14 @@
 ---
 permalink: /
-title: "Centre for Musculoskeletal Outcomes Research"
-excerpt: "About us"
+title: "Centre for Musculoskeletal Outcomes Research <br><em>Te Pokapū Rangahau Hauora Wheua</em>"
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+header:
+  overlay_image: dsmsurgery-background-insidepage.jpg
+  show_overlay_excerpt: false
 ---
 
 The Centre for Musculoskeletal Outcomes Research (CMOR) aims to conduct and disseminate research addressing decision-making and outcomes for patients with musculoskeletal disorders.
@@ -49,6 +52,7 @@ Applicants must have a higher research degree or clinical doctorate, a sound bac
 For more information, please contact Professor J. Haxby Abbott PhD, DPT, FNZCP  
 Email: <haxby.abbott@otago.ac.nz>
 
+<!-- 
 Our people
 ------
 * [Professor Haxby Abbott](https://www.otago.ac.nz/dsm/people/expertise/profile/?id=797)  
@@ -64,6 +68,7 @@ Our people
 
 PhD students
 * [Anupa Pathak](https://www.otago.ac.nz/dsm-surgery/staff/expertise/profile/index.html?id=3318)
+-->
 
 Contact us
 ------
