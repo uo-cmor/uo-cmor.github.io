@@ -45,30 +45,21 @@ Our research
 
 Postgraduate opportunities
 ------
+**PhD project: Investigate the validity of the SF-6D health utility instrument for use in the New Zealand population, particularly to ensure equitable health measurement for Māori.**
+
+Applicants must have a higher research degree, clinical doctorate, or relevant research experience. The project would suit a student with interest in hauora Māori and kaupapa Māori research methodologies, and interest in using research to inform equitable health policy decision-making. The PhD programme is 3 years full-time study, to start 1 February 2022 or as soon as possible thereafter. Stipend: $30,000 p.a. for three years.
+
+For more information, please contact Dr Ross Wilson  
+Email: <ross.wilson@otago.ac.nz>
+
+<br>
+
 **PhD project: Investigate the health burdens and economic inequalities arising from musculoskeletal disorders. Primarily hip OA, low back pain or shoulder disorders; the costs and effects of interventions.**
 
 Applicants must have a higher research degree or clinical doctorate, a sound background in epidemiology, clinical epidemiology, or economics, and a strong aptitude for mathematics and/or statistics. The PhD programme is 3 years full-time study. The University of Otago is a research-intensive university, rated Five Stars Plus for quality by QS World University Rankings. Tuition scholarships are available for applicants with a strong academic record.
 
 For more information, please contact Professor J. Haxby Abbott PhD, DPT, FNZCP  
 Email: <haxby.abbott@otago.ac.nz>
-
-<!-- 
-Our people
-------
-* [Professor Haxby Abbott](https://www.otago.ac.nz/dsm/people/expertise/profile/?id=797)  
-*Research Professor*
-* [Professor David Gwynne-Jones](https://www.otago.ac.nz/dsm-surgery/staff/expertise/profile/index.html?id=723)  
-*Clinical Leader*
-* [Dr Ross Wilson](https://www.otago.ac.nz/medical-school/people/expertise/profile/index.html?id=2457)  
-*Research Fellow*
-* [Dr Saurab Sharma](https://www.otago.ac.nz/dsm-surgery/staff/expertise/profile/index.html?id=3317)  
-*Postdoctoral Fellow*
-* Dr Yana Pryymachenko  
-*Postdoctoral Fellow*
-
-PhD students
-* [Anupa Pathak](https://www.otago.ac.nz/dsm-surgery/staff/expertise/profile/index.html?id=3318)
--->
 
 Contact us
 ------
