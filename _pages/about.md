@@ -13,7 +13,7 @@ header:
 
 The Centre for Musculoskeletal Outcomes Research (CMOR) aims to conduct and disseminate research addressing decision-making and outcomes for patients with musculoskeletal disorders.
 
-CMOR is a multidisciplinary community of researchers, clinicians, policy makers and educators dedicated to improving patient health outcomes. We do this through translational research aimed at optimising clinical practice; from epidemiology through clinical trials, health economics and health services research.
+CMOR is a multidisciplinary community of researchers, clinicians, policy makers and educators dedicated to improving patient health outcomes. We do this through research across the spectrum of clinical epidemiology and outcomes research, including epidemiology, clinical trials, health economics, implementation, evaluation and health services research.
 
 About us
 ------
@@ -27,29 +27,31 @@ Our research
 ------
 **Clinical outcomes research**
 * Arthroplasty
-* Clinical Epidemiology
-* Clinical Outcomes Research
+* Clinical epidemiology
+* Clinical outcomes research
 * Computer simulation modelling
 * Diagnostic tests
 * Economic evaluation
-* Low Back Pain
+* Low back pain
 * Prognostic studies
-* Screening and Prediction instruments
-* Spine Research
+* Screening and prediction instruments
+* Spine research
 * Trauma
 
 **Health services research**
-* Health Technology Assessment
-* Outcome Assessment Instruments
-* Prioritisation and Resource Allocation
+* Health technology assessment
+* Outcome assessment instruments
+* Prioritisation and resource allocation
 
 Postgraduate opportunities
 ------
 **PhD project: Investigate the validity of the SF-6D health utility instrument for use in the New Zealand population, particularly to ensure equitable health measurement for Māori.**
 
-Applicants must have a higher research degree, clinical doctorate, or relevant research experience. The project would suit a student with interest in hauora Māori and kaupapa Māori research methodologies, and interest in using research to inform equitable health policy decision-making. The PhD programme is 3 years full-time study, to start 1 February 2022 or as soon as possible thereafter. Stipend: $30,000 p.a. for three years.
+This project would suit a student with interest in hauora Māori and kaupapa Māori research methodologies, and interest in using research to inform equitable health policy decision-making. The PhD programme is 3 years full-time study, to start 1 February 2022 or as soon as possible thereafter. Stipend: $30,000 p.a. for three years.
 
-For more information, please contact Dr Ross Wilson  
+For more information, see [here](https://www.otago.ac.nz/healthsciences/students/postgraduate/research-opportunities/otago833712.html).
+
+For enquiries, please contact Dr Ross Wilson  
 Email: <ross.wilson@otago.ac.nz>
 
 <br>

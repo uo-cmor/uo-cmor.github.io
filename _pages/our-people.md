@@ -21,11 +21,17 @@ Professor Haxby Abbott is a clinical epidemiologist and New Zealand's leading os
 *Clinical Leader, Orthopaedic Department, Dunedin Hospital*
 * [Dr Ross Wilson](https://www.otago.ac.nz/medical-school/people/expertise/profile/index.html?id=2457)  
 *Research Fellow*
-* [Dr Saurab Sharma](https://www.otago.ac.nz/dsm-surgery/staff/expertise/profile/index.html?id=3317)  
-*Postdoctoral Fellow*
 * Dr Yana Pryymachenko  
 *Postdoctoral Fellow*
 
 ## PhD students
 
-* [Anupa Pathak](https://www.otago.ac.nz/dsm-surgery/staff/expertise/profile/index.html?id=3318)
+* Jo Kennedy
+
+## Past PhD students
+
+* Anupa Pathak (thesis submitted)
+* Dr Jason Chua
+* Dr Saurab Sharma
+* [Dr David Kieser](https://www.otago.ac.nz/christchurch/departments/orthomsm/people/david-kieser.html)
+* Professor Mark Melloh
