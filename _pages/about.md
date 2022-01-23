@@ -13,7 +13,7 @@ header:
 
 The Centre for Musculoskeletal Outcomes Research (CMOR) aims to conduct and disseminate research addressing decision-making and outcomes for patients with musculoskeletal disorders.
 
-CMOR is a multidisciplinary community of researchers, clinicians, policy makers and educators dedicated to improving patient health outcomes. We do this through research across the spectrum of clinical epidemiology and outcomes research, including epidemiology, clinical trials, health economics, implementation, evaluation and health services research.
+CMOR is a multidisciplinary community of researchers, clinicians, policy makers and educators dedicated to improving patient health outcomes. We do this through research across the spectrum of clinical epidemiology and outcomes research, including epidemiology, clinical trials, health economics, implementation, evaluation, and health services research.
 
 About us
 ------
