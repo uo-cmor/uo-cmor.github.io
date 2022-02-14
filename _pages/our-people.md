@@ -28,6 +28,14 @@ Professor Haxby Abbott is a clinical epidemiologist and New Zealand's leading os
 
 * Jo Kennedy
 
+## Affiliated academic staff
+
+* [Associate Professor Ben Darlow](https://www.otago.ac.nz/wellington/departments/primaryhealthcaregeneralpractice/staff/otago088308.html)  
+*Associate Professor, Department of Primary Health Care and General Practice, University of Otago, Wellington*
+
+* [Dr Ben Hudson](https://www.otago.ac.nz/christchurch/research/generalpractice/ourpeople/ben-hudson.html)  
+*Senior Lecturer, Department of General Practice, University of Otago, Christchurch*
+
 ## Past PhD students
 
 * Anupa Pathak (thesis submitted)
