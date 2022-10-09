@@ -38,7 +38,7 @@ Professor Haxby Abbott is a clinical epidemiologist and New Zealand's leading os
 
 ## Past PhD students
 
-* Anupa Pathak (thesis submitted)
+* Dr Anupa Pathak
 * Dr Jason Chua
 * Dr Saurab Sharma
 * [Dr David Kieser](https://www.otago.ac.nz/christchurch/departments/orthomsm/people/david-kieser.html)
