@@ -10,4 +10,7 @@ main:
     url: /teaching/    
 
   - title: "Our people"
-    url: /our-people/    
+    url: /our-people/ 
+    
+  - title: "HRC Grant"
+    url: /projects-hrc/ 
