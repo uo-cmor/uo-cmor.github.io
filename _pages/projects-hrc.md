@@ -17,20 +17,23 @@ Osteoarthritis is among the most common long-term conditions in New Zealand. The
 
 **The Programme aims to address the following key issues:**
 
-## 1. Allocative Efficiency 
+##  <a href="https://uo-cmor.github.io/projects-one/">1. Allocative Efficiency </a>
 
 The allocative efficiency of intervention delivery across the disease course of OA, including health economic evaluation, population-based data analyses, equity analysis and computer simulation modelling.  
 
-## 2. Filling gaps in OA knowledge
+## Risks, Impacts, Equity and Cost-Effectiveness
 
-Filling knowledge gaps regarding health losses, economic consequences, inequities, and treatment effects in pre- and early OA, and peri-surgical end-stage OA (Projects 2, 3 & 4).
+<a href="https://uo-cmor.github.io/projects-two/"> **2. What are the long-term impacts of ligament injury?** </a>
 
-## 5. Collaborative Development
+<a href="https://uo-cmor.github.io/projects-three/"> **3. What are the impacts of opioid use around TJR surgery?** </a>
 
-With a particular focus on achieving Māori uptake and engagement, and clinical trial evaluation of a novel intervention programme for multimorbidity including OA – a key area of unmet need and knowledge gap.
+<a href="https://uo-cmor.github.io/projects-four/"> **4. The cost-effectiveness of TJR in the Aotearoa health system** </a>
 
-## 6. Matauranga
+## <a href="https://uo-cmor.github.io/projects-five/"> 5. He Oranga mō te whanau </a>
 
-Each project has a distinct rangahau Māori thread, led and conducted by kairangahau Māori, and a capstone project using a critical Māori lens to examine the intersections and implications of each project and the overall results of this Programme and of HRC-funded Project 21-526 “Measuring the health state preferences of New Zealanders” (an investigation of equitable measurement of health-related quality of life in Aotearoa  and the impact of common LTCs). The Programme will be conducted with oversight by a taumata of Kairangahau Māori, who will have rangatiratanga (the right to exercise leadership and authority) over the interpretation, knowledge transfer and impact activities of the results of these threads and their meaning in and for the wider context of Māori health advancement and equity in health delivery.
+Improving outcomes for people with hip and knee OA and co-morbidities
+
+## <a href="https://uo-cmor.github.io/projects-six/"> 6. Mātauranga </a>
+A mātauranga approach to access, resourcing, and outcomes for Māori with OA
 
 ---
