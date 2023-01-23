@@ -1,9 +1,9 @@
 ---
 permalink: /projects-hrc/
-title: "HRC Grant 2023"
+title: "HRC Program 2022-2027"
 ---
 
-### Reducing the burden of osteoarthritis in Aotearoa New Zealand
+# Reducing the burden of osteoarthritis in Aotearoa New Zealand
 
 # Summary of Research Project
 
@@ -11,13 +11,26 @@ Osteoarthritis is among the most common long-term conditions in New Zealand. The
 
 ---
 
-**This grant is divided into several individual projects:**
+**A Cohesive, Collaborative Programme of Four Inter-related Projects**
 
-## Project One
----
-## Project Two
----
-## Project Three
----
-## Project Four
+<img src="/images/Programme hands.jpg" class=center />
+
+**The Programme aims to address the following key issues:**
+
+## 1. Allocative Efficiency 
+
+The allocative efficiency of intervention delivery across the disease course of OA, including health economic evaluation, population-based data analyses, equity analysis and computer simulation modelling.  
+
+## 2. Filling gaps in OA knowledge
+
+Filling knowledge gaps regarding health losses, economic consequences, inequities, and treatment effects in pre- and early OA, and peri-surgical end-stage OA (Projects 2, 3 & 4).
+
+## 5. Collaborative Development
+
+With a particular focus on achieving Māori uptake and engagement, and clinical trial evaluation of a novel intervention programme for multimorbidity including OA – a key area of unmet need and knowledge gap.
+
+## 6. Matauranga
+
+Each project has a distinct rangahau Māori thread, led and conducted by kairangahau Māori, and a capstone project using a critical Māori lens to examine the intersections and implications of each project and the overall results of this Programme and of HRC-funded Project 21-526 “Measuring the health state preferences of New Zealanders” (an investigation of equitable measurement of health-related quality of life in Aotearoa  and the impact of common LTCs). The Programme will be conducted with oversight by a taumata of Kairangahau Māori, who will have rangatiratanga (the right to exercise leadership and authority) over the interpretation, knowledge transfer and impact activities of the results of these threads and their meaning in and for the wider context of Māori health advancement and equity in health delivery.
+
 ---
