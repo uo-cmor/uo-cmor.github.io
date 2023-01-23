@@ -1,0 +1,14 @@
+---
+permalink: /projects-three/
+title: "HRC Program Three"
+---
+
+# Project 3: Filling gaps in OA knowledge: What are the impacts of opioid use around TJR surgery?
+
+**Research questions:** What are the impacts of opioid use around TJR surgery? 
+
+**Design and methods:** Computer simulation modelling requires detailed input data describing the key relationships between patient attributes, event occurrence, and the cost and effects outcomes associated with disease states and interventions. In addition to data already used to provide inputs for our existing NZ-MOA simulation model, past HRC-funded projects, published results from the epidemiological literature, and findings from other projects within the Programme, we will conduct the additional empirical and epidemiological studies described below to provide necessary input data for modelling work. 
+
+This study will investigate the prevalence, risks and impacts of opioid use around TJR surgery, using data from the IDI on all ligament injury claims made to ACC, equity of subsequent health and economic outcomes, including OA diagnosis data from primary care drawn from our current HRC-funded project (18/442);  The IDI-based analyses will use matching methods to construct cohorts of similar individuals varying only in the treatment/exposure of interest (ligament injury, opioid prescribing). By using the whole-of-population datasets and extensive linked data available in the IDI, we will have sufficient data to construct high-quality matching between ‘case’ and ‘control’ groups, and will follow established best practices in the construction, diagnostic testing, and refinement of these matching models. Outcomes will be compared between the matched cohorts using standard methods such as linear, logistic, and survival models. Analyses will also be stratified by age, gender, and ethnicity (and the matching models constructed to support these subgroup analyses) to identify groups at high risk of inequitable outcomes. These analyses will all build on existing projects currently underway, including an HRC-funded Health Delivery Research grant (20/1164) for analysis of the ligament injury data and Otago Medical Research Foundation- and H.S & J.C Anderson Trust-funded research on opioid use around TJR. The IDI is unique and world-leading in the extent of linked individual-level, population-wide data available, allowing us to provide data and results of international significance.
+
+**Research team:** Abbott (project leadership), Pryymachenko (data analysis expertise, esp. IDI); Wilson (advice on statistical analysis, IDI expertise, and simulation model inputs); Ligament injuries: Whittaker, Young; Joint replacement surgeries: Mutu-Grigg, Choong, Gwynne-Jones, Young, Dowsey; Opioid use: Choong, Dowsey, Buchbinder, Stokes; Primary care, interface with secondary care: Stokes, Gwynne-Jones; Kairangahau Māori rōpū, equity analyses interpretation: Mutu-Grigg, Kidd, Bell.
