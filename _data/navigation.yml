@@ -1,7 +1,13 @@
 # main links links
 main:
+  - title: "HRC Programme"
+    url: /projects-hrc/
+
   - title: "Publications"
     url: /publications/
+
+  - title: "Our people"
+    url: /our-people/
 
   - title: "Talks & Conferences"
     url: /talks/    
@@ -9,8 +15,4 @@ main:
   - title: "Teaching"
     url: /teaching/    
 
-  - title: "Our people"
-    url: /our-people/ 
 
-  - title: "HRC Programme"
-    url: /projects-hrc/ 
