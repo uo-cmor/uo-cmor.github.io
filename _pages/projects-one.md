@@ -1,6 +1,6 @@
 ---
 permalink: /projects-one/
-title: "HRC Program One"
+title: "HRC Programme One"
 ---
 
 # Project 1: Optimal treatment of hip and knee OA across the disease course
@@ -11,7 +11,7 @@ title: "HRC Program One"
 
 The state-transition design of the NZ-MOA model is well-suited to evaluating the costs and effects of interventions over time, but is not suitable for evaluating the allocative efficiency of varying the funding mix across the disease course. Addressing these crucial questions requires a novel model structure able to capture changes in capacity constraints across the health sector associated with different funding allocations. We will therefore develop for this project a new model, based on a discrete event simulation (DES) framework, that is explicitly designed to incorporate capacity constraints and resource allocation across the health sector. A recent systematic review of models used in economic evaluation for OA found that the vast majority were simple decision-tree models or Markov state-transition models that are similarly unable to evaluate resource allocation across the disease course. Previous work by NI Marshall identified an absence of research modelling resource use requirements, constraints, and allocative efficiency. Our proposed research will therefore be leading edge internationally.
 
-In brief, a DES model consists of a population of hypothetical simulated individuals, each with attributes (e.g. age, sex, disease state); a set of heath events, such as disease incidence, initiation of treatment, or occurrence of adverse events, that can happen to the individuals; resources such as healthcare facilities or workers required to process, for example, patients undergoing a particular treatment; and the flow of time over which individuals enter the model, events occur, and outcomes are measured. This provides a flexible and powerful way to simulate clinical reality across the course of a disease.
+In brief, a DES model consists of a population of hypothetical simulated individuals, each with attributes (e.g. age, sex, disease state); a set of health events, such as disease incidence, initiation of treatment, or occurrence of adverse events, that can happen to the individuals; resources such as healthcare facilities or workers required to process, for example, patients undergoing a particular treatment; and the flow of time over which individuals enter the model, events occur, and outcomes are measured. This provides a flexible and powerful way to simulate clinical reality across the course of a disease.
 
 An advantage of the DES framework is the model transparency afforded by the ability to follow individuals’ and groups’ disease course and clinical pathways through the model, along with the decision criteria and probability distributions applied at each step. This allows rigorous evaluation of the face validity of the model structure, assumptions, and input data, including by non-technical reviewers. This will give end-users and decision-makers confidence in our modelling methods, outputs, and recommendations to support translation, uptake, and impact.
 
