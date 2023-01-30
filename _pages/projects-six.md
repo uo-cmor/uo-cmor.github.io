@@ -1,6 +1,6 @@
 ---
 permalink: /projects-six/
-title: "HRC Program Six"
+title: "HRC Programme Six"
 ---
 
 # Project 6: A mātauranga approach to access, resourcing, and outcomes for Māori with OA
@@ -10,7 +10,7 @@ title: "HRC Program Six"
 **2.** To apply a critical Māori lens to the intersections and implications of this programme and of HRC-funded Project 21-526 “Measuring the health state preferences of New Zealanders” (an investigation of equitable measurement of health-related quality of life in Aotearoa and the impact of common long-term conditions). 
 **3.** To develop mātauranga findings and outputs that are expressly relevant to whānau and hapū, to rangahau Māori, to Māori health professionals, and to the Waitangi Tribunal Wai 2575 Inquiry stages two and three.
 
-**Background:** The Waitangi Tribunal Hauora report (Wai 2575, 2019) identified and prioritised themes of systemic failure in health services and outcomes. The Waitangi Tribunal found, in Wai 2575 (2019), “that appropriate measuring of, and reporting on, Māori health inequities needs to be a key accountability mechanism in the health sector” [p122] and that “the Crown’s failure to institute mechanisms that ensure that Māori health outcomes are measured and reported on in a robust way undermines the ability of the system to improve the design and delivery of Māori health care. This, in turn, impacts on the way that Māori experience and receive care.” [8.5, p.152] 
+**Background:** The Waitangi Tribunal Hauora report (Wai 2575, 2019) identified and prioritised themes of systemic failure in health services and outcomes. The Waitangi Tribunal found, in Wai 2575 (2019), “that appropriate measuring of, and reporting on, Māori health inequities needs to be a key accountability mechanism in the health sector” (p122) and that “the Crown’s failure to institute mechanisms that ensure that Māori health outcomes are measured and reported on in a robust way undermines the ability of the system to improve the design and delivery of Māori health care. This, in turn, impacts on the way that Māori experience and receive care.” (8.5, p.152).
 
 This programme seeks to align with and address the key findings of the Stage One WAI 2575 report, i.e. alignment with the articles of Te Tiriti o Waitangi; emphasising Māori authority (tino rangatiratanga); strengthening accountability mechanisms; targeted and equitable investment in Māori health; and embedding equity and anti-racism in approaches to OA. 
 
