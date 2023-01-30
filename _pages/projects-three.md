@@ -1,6 +1,6 @@
 ---
 permalink: /projects-three/
-title: "HRC Program Three"
+title: "HRC Programme Three"
 ---
 
 # Project 3: Filling gaps in OA knowledge: What are the impacts of opioid use around TJR surgery?
