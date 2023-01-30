@@ -1,6 +1,6 @@
 ---
 permalink: /projects-two/
-title: "HRC Program Two"
+title: "HRC Programme Two"
 ---
 
 # Project 2: Filling gaps in OA knowledge: What are the long-term impacts of ligament injury?
