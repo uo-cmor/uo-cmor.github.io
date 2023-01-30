@@ -1,6 +1,6 @@
 ---
 permalink: /projects-five/
-title: "HRC Program Five"
+title: "HRC Programme Five"
 ---
 
 # Project 5: He Oranga mō te whanau - Improving outcomes for people with hip and knee OA and co-morbidities
