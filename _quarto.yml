@@ -1,0 +1,21 @@
+project:
+  type: website
+
+website:
+  title: "Centre for Musculoskeletal Outcomes Research"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: hrc-programme.qmd
+        text: "HRC Programme"
+      - href: publications.qmd
+        text: Publications
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+

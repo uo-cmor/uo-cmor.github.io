@@ -1,2 +1,6 @@
-_site/
-vendor/
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+/.quarto/
