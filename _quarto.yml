@@ -1,16 +1,38 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "Centre for Musculoskeletal Outcomes Research"
+  title: "CMOR"
+
   navbar:
+    title: "Centre for Musculoskeletal Outcomes Research<br><i>University of Otago</i>"
+    logo: _images/cmor-logo.jpg
+    background: "white"
     left:
       - href: index.qmd
         text: Home
       - href: hrc-programme.qmd
-        text: "HRC Programme"
+        text: HRC Programme
       - href: publications.qmd
         text: Publications
+      - href: our-people.qmd
+        text: Our people
+
+  sidebar:
+    style: "floating"
+    logo: _images/cmor-logo.jpg
+    contents:
+      - text: <b>CMOR</b>
+      - text: University of Otago
+      - text: <i class="bi bi-geo-alt-fill"></i> Dunedin, New Zealand
+      - text: <i class="bi bi-link-45deg"></i> Website
+        href: https://www.otago.ac.nz/dsm-surgery/research/cmor/index.html
+      - text: <i class="bi bi-twitter"></i> Twitter
+        href: https://twitter.com/CMOR_Otago
+      - text: <i class="bi bi-github"></i> GitHub
+        href: https://github.com/uo-cmor
+
 format:
   html:
     theme: cosmo
