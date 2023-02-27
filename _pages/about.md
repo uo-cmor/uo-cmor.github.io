@@ -23,25 +23,11 @@ CMOR provides expert skills and research training in the fields of orthopaedic a
 
 Our research portfolios include outcome measure evaluation, occupational and public health issues, clinical epidemiology, economic evaluations and health resource allocation issues affecting primary and secondary care settings.
 
-Our research
+Research Programmes
 ------
-**Clinical outcomes research**
-* Arthroplasty
-* Clinical epidemiology
-* Clinical outcomes research
-* Computer simulation modelling
-* Diagnostic tests
-* Economic evaluation
-* Low back pain
-* Prognostic studies
-* Screening and prediction instruments
-* Spine research
-* Trauma
 
-**Health services research**
-* Health technology assessment
-* Outcome assessment instruments
-* Prioritisation and resource allocation
+
+
 
 Postgraduate opportunities
 ------
