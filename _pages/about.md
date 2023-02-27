@@ -25,9 +25,7 @@ Our research portfolios include outcome measure evaluation, occupational and pub
 
 Research Programmes
 ------
-
-
-
+<a href="https://uo-cmor.github.io/projects-hrc"> ![CMOR logo](/images/Moa-Logo.jpg) </a>
 
 Postgraduate opportunities
 ------
