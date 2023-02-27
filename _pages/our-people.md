@@ -20,13 +20,17 @@ Professor Haxby Abbott is a clinical epidemiologist and New Zealand's leading os
 * [Professor David Gwynne-Jones](https://www.otago.ac.nz/dsm-surgery/staff/expertise/profile/index.html?id=723)  
 *Clinical Leader, Orthopaedic Department, Dunedin Hospital*
 * [Dr Ross Wilson](https://www.otago.ac.nz/medical-school/people/expertise/profile/index.html?id=2457)  
-*Research Fellow*
+*Senior Research Fellow*
 * Dr Yana Pryymachenko  
 *Postdoctoral Fellow*
+* Associate Professor Fraser Harrold               
+*Orthopaedic Surgeon, Orthopaedic Department, Dunedin Hospital*
+
 
 ## PhD students
 
-* Jo Kennedy
+* Richelle Caya
+* Rory Christopherson
 
 ## Affiliated academic staff
 
@@ -38,6 +42,7 @@ Professor Haxby Abbott is a clinical epidemiologist and New Zealand's leading os
 
 ## Past PhD students
 
+* Dr Jo Kennedy
 * Dr Anupa Pathak
 * Dr Jason Chua
 * Dr Saurab Sharma
