@@ -1,0 +1,29 @@
+---
+title: "Translation, cross-cultural adaptation, and measurement properties of the Nepali version of the central sensitization inventory (CSI)"
+subtitle: "BMC Neurology"
+date: "2020-07-27"
+abstract: |
+  **Background**
+  Central sensitization is thought to be an important contributing factor in many chronic pain disorders. The Central Sensitization Inventory (CSI) is a patient-reported measure frequently used to assess symptoms related to central sensitization. The aims of the study were to translate and cross-culturally adapt the CSI into Nepali (CSI-NP) and assess its measurement properties.
+  
+  **Methods**
+  The CSI was translated into Nepali using recommended guidelines. The CSI-NP was then administered on 100 Nepalese adults with sub-acute and chronic musculoskeletal pain with additional demographic and pain-related questions. The CSI-Nepali was administered again about 2 weeks later. Four measurement properties of the CSI-NP were evaluated: (1) internal consistency using Cronbach’s alpha, (2) test-retest reliability using intraclass correlation coefficient (ICC2,1), (3) measurement errors, and (4) construct validity testing five a priori hypotheses. Confirmation of construct validity was determined if a minimum of 75% of the hypotheses were met.
+  
+  **Results**
+  The CSI was successfully translated into Nepali. Internal consistency and test-retest reliability were both excellent (Cronbach’s alpha = 0.91, and ICC = 0.98). The standard error of measurement was 0.31 and the smallest detectable change was 0.86. Four out of five (80%) a priori hypotheses were met, confirming the construct validity: the CSI-NP correlated strongly with the Pain Catastrophizing Scale total scores (r = 0.50); moderately with the total number of pain descriptors (r = 0.35); weakly with the Numerical Rating Scale (r = 0.25); and women had significantly higher CSI scores than men. However, the CSI scores did not correlate significantly with the total duration of pain, as hypothesized (r = 0.10).
+  
+  **Conclusions**
+  The Nepali translation of the CSI demonstrated excellent reliability and construct validity in adults with musculoskeletal pain. It is now available to Nepali health care providers to help assess central sensitization-related signs and symptoms in individuals with musculoskeletal pain in research or clinical practice to advance the understanding of central sensitization in Nepalese samples.
+citation: 
+  type: article-journal
+  container-title: "BMC Neurology"
+  author:
+    - name: Saurab Sharma
+    - name: Jhoti Jha
+    - name: Anupa Pathak
+    - name: Randy Neblett
+  volume: 20
+  page: "286"
+  issued: 2020
+  doi: 10.1186/s12883-020-01867-1
+---

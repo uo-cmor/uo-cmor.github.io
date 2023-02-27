@@ -1,0 +1,45 @@
+---
+title: "Group differences between countries and between languages in pain-related beliefs, coping, and catastrophizing in chronic pain: A systematic review"
+subtitle: "Pain Medicine"
+date: "2020-02-11"
+abstract: |
+  **Objective**
+  To evaluate the extent to which pain-related beliefs, appraisals, coping, and catastrophizing differ between countries, language groups, and country economy.
+  
+  **Design**
+  Systematic review.
+  
+  **Methods**
+  Two independent reviewers searched 15 databases without restriction for date or language of publication. Studies comparing pain beliefs/appraisals, coping, or catastrophizing across two or more countries or language groups in adults with chronic pain (pain for longer than three months) were included. Two independent reviewers extracted data and performed the quality appraisal. Study quality was rated as low, moderate, or high using a 10-item modified STROBE checklist. Effect sizes were reported as small (0.20–0.49), medium (0.50–0.79), or large (≥0.80).
+  
+  **Results**
+  We retrieved 1,365 articles, read 42 potential full texts, and included 10 (four moderate-quality, six low-quality) studies. A total of 6,797 adults with chronic pain (33% with chronic low back pain) were included from 16 countries. Meta-analysis was not performed because of heterogeneity in the studies. A total of 103 effect sizes were computed for individual studies, some of which indicated between-country differences in pain beliefs, coping, and catastrophizing. Of these, the majority of effect sizes for pain beliefs/appraisal (60%; eight large, eight medium, and eight small), for coping (60%; seven large, 11 medium, and 16 small), and for catastrophizing (50%; two medium, one small) evidenced statistically significant between-country differences, although study quality was low to moderate.
+  
+  **Conclusions**
+  In 50% or more of the studies, mean scores in the measures of pain beliefs and appraisals, coping responses, and catastrophizing were significantly different between people from different countries. 
+citation: 
+  type: article-journal
+  container-title: "Pain Medicine"
+  author:
+    - name: Saurab Sharma
+    - name:
+        family: Ferreira-Valente
+        given: Alexandra
+    - name:
+        family: de C. Williams
+        given: Amanda C.
+    - name:
+        family: Abbott
+        given: J. Haxby
+    - name:
+        family: Pais-Ribeiro
+        given: José
+    - name:
+        family: Jensen
+        given: Mark P.
+  volume: 21
+  issue: 9
+  page: "1847-1862"
+  issued: 2020
+  doi: 10.1093/pm/pnz373
+---

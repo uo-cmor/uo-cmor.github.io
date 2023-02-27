@@ -1,0 +1,39 @@
+---
+title: "Development and assessment of a verbal response scale for the Patient-Specific Functional Scale (PSFS) in a low-literacy, non-western population"
+subtitle: "Quality of Life Research"
+date: "2020-09-23"
+abstract: |
+  **Purpose**
+  The Patient-Specific Functional Scale (PSFS) is a routinely used measure of physical function with a 0–10 response scale. We aimed to develop verbal response options for the PSFS, pre-test it for use in a multilingual, low-literacy country— Nepal, and compare preference and error rates between numeric and verbal scale. We hypothesized that a verbal scale would be preferred by respondents and yield fewer errors.
+  
+  **Method**
+  We interviewed 42 individuals with musculoskeletal, neurological, and cardiopulmonary conditions to understand how people describe varying levels of physical ability. Transcripts were thematically analyzed, and through consensus, we developed two sets of verbal responses for the PSFS. Next, we pre-tested the scales on an additional 119 respondents following which participants were asked to specify their preferred scale. Error rates were analyzed retrospectively using pre-specified criteria.
+  
+  **Results**
+  Participants described their ability in terms of the quality (95%) and the quantity of task performance (88%). Although the verbal scales were preferred over the numeric scale (50% versus 12%), there was no significant difference in error rates between numeric (34%) and verbal scales (32% and 36%). Higher error rates were associated with greater age, fewer years of education, and inexperience with numeric scales.
+  
+  **Conclusion**
+  Despite a higher preference for verbal scale, 1 out of 3 patients made errors in using the PSFS, even with an interview format. The error rates were higher among participants with low literacy. The findings raise questions about the utility of PROMs in countries with low literacy rates.
+citation: 
+  type: article-journal
+  container-title: "Quality of Life Research"
+  author:
+    - name: Anupa Pathak
+    - name: Saurab Sharma
+    - name:
+        family: Heinemann
+        given: Allen W.
+    - name:
+        family: Stratford
+        given: Paul W.
+    - name:
+        family: Ribeiro
+        given: Daniel Cury
+    - name:
+        family: Abbott
+        given: J. Haxby
+  volume: 30
+  page: "613-628"
+  issued: 2021
+  doi: 10.1007/s11136-020-02640-0
+---

@@ -1,0 +1,42 @@
+---
+title: "Translation and cross-cultural adaptation of Nepali versions of the Patient-Reported Outcomes Measurement Information System (PROMIS) Pain Intensity, Pain Interference, Pain Behavior, Depression, and Sleep Disturbance short forms in chronic musculoskeletal pain"
+subtitle: "Quality of Life Research"
+date: "2021-01-22"
+abstract: |
+  **Purpose**
+  The Patient-Reported Outcomes Meaurement Information System (PROMIS®) measures have been translated into many languages and have been shown to have strong measurement properties across a wide range of clinical conditions. However, Nepali translations of the PROMIS short forms are not yet available. The aim of this study was to translate and cross-culturally adapt the PROMIS Pain Intensity, Pain Interference, Pain Behavior, Depression, and Sleep Disturbance short forms into Nepali.
+  
+  **Methods**
+  We used the Functional Assessment of Chronic Illness Therapy (FACIT) translation methodology, which incorporated two forward translations, synthesis of the translations, a back-translation, and three independent reviews, harmonization, cognitive debriefing, revisions, and proof reading. The translation and review teams were fluent in Nepali and English and represented five different countries and four continents. We evaluated the short forms for comprehensibility and relevance (two key aspects of the content validity of an instrument), conducting cognitive debriefing with six adults with chronic musculoskeletal pain, in compliance with recommendations by the COnsensus-based Standards for the selection of health Measurement INstruments (COSMIN). The final version was proofread by two native Nepali speakers before and three new proofreaders after cognitive debriefing.
+  
+  **Results**
+  All five short forms were successfully translated and cross-culturally adapted into Nepali while maintaining equivalence to the source.
+  
+  **Conclusions**
+  The translation and review team, along with a sample from the target population with chronic musculoskeletal pain and the proofreaders considered all five PROMIS short forms relevant and comprehensible. An important next step is to evaluate the measurement properties of these instruments.
+citation: 
+  type: article-journal
+  container-title: "Quality of Life Research"
+  author:
+    - name: Saurab Sharma
+    - name: Helena Correia
+    - name: Anupa Pathak
+    - name:
+        family: Terwee
+        given: Caroline B.
+    - name:
+        family: Abbott
+        given: J. Haxby
+    - name: Riju Maharjan
+    - name: Sweekriti Sharma
+    - name: Jeevan Sharma
+    - name: Soniya Maharjan
+    - name: Darren Read
+    - name:
+        family: Jensen
+        given: Mark P.
+  volume: 30
+  page: "1215-1224"
+  issued: 2021
+  doi: 10.1007/s11136-020-02745-6
+---

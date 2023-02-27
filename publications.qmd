@@ -1,11 +1,7 @@
 ---
 title: "Publications"
 listing:
-  contents: publications
+  contents: "publications/*.qmd"
+  template: publications/citations.ejs
   sort: "date desc"
-  type: default
-  categories: false
-  sort-ui: false
-  filter-ui: false
-  fields: [title, subtitle, date]
 ---

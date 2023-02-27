@@ -9,7 +9,7 @@ website:
     title: "Centre for Musculoskeletal Outcomes Research<br><i>University of Otago</i>"
     logo: _images/cmor-logo.jpg
     background: "white"
-    left:
+    right:
       - href: index.qmd
         text: Home
       - href: hrc-programme.qmd
@@ -39,8 +39,10 @@ format:
     css: styles.css
     toc: true
     appendix-style: plain
+    csl: vancouver.csl
     language:
-      appendix-attribution-cite-as: "Recommended citation:"
+      section-title-citation: "Recommended citation:"
+      appendix-attribution-cite-as: " "
 
 
 
