@@ -1,6 +1,6 @@
 ---
 permalink: /projects-hrc/
-title: "HRC Programme 2022-2027"
+title: "Management of Osteoarthritis"
 ---
 
 # Reducing the burden of osteoarthritis in Aotearoa New Zealand
