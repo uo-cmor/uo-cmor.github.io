@@ -2,9 +2,9 @@
 title: "New Zealand Osteoarthritis Summit 2023"
 collection: talks
 type: "Conference"
-permalink: talks/2023-oa-summit
+permalink: /talks/2023-oa-summit
 venue: "University of Otago"
-date: 2023-11-02 - 2023-11-04
+date: 2023-11-02-2023-11-04
 location: "Dunedin, New Zealand"
 ---
 <img src="/images/OA-Summit-logo-23.jpg" alt="2023 Aotearoa New Zealand OA Summit logo" style="float:left;margin-right:10px" width="168" height="105" />
