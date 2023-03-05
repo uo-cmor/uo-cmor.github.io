@@ -2,7 +2,7 @@
 permalink: /our-work/
 title: "Management of Osteoarthritis"
 ---
- <a href="www.link.com"> <img src="/images/OARNet-logo-t.jpg" alt="OARNet Logo"> </a>
+ <a href="https://uo-cmor.github.io/OARnet-page"> <img src="/images/OARNet-logo-t.jpg" alt="OARNet Logo"> </a>
 
 <a href="www.link.com"> <img src="/images/OA-summit-logo-23-t.jpg" alt="OA Summit Logo"> </a>
 
