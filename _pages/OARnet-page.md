@@ -1,50 +1,40 @@
 ---
-permalink: /our-work/
-title: "Management of Osteoarthritis"
+permalink: /OARnet-page/
+title: "OARnet page"
 ---
- <a href="www.link.com"> <img src="/images/OARNet-logo-t.jpg" alt="OARNet Logo"> </a>
+![OARNet Logo](/images/OARNet-logo.jpg)
 
-<a href="www.link.com"> <img src="/images/OA-summit-logo-23-t.jpg" alt="OA Summit Logo"> </a>
+# Te Anga Kaikōiwi o Aotearoa New Zealand Osteoarthritis Research Network
 
-# Reducing the burden of osteoarthritis in Aotearoa New Zealand
+**Te Anga Kaikōiwi o Aotearoa New Zealand Osteoarthritis Research Network is a national, interdisciplinary network of researchers across Aotearoa. This initiative has secured initial funding support from the University of Otago.
 
-![Moa Logo](/images/MOA-logo-t.jpg)
+This national OA Research Network aims to:
+1) Progress research excellence across the spectrum of research contributing to new knowledge relevant to osteoarthritis.
+2) Extend research strength in Aotearoa New Zealand by advancing OA research and facilitating national and international collaboration.
+3) Build capability and capacity in OA research by supporting research training and early- and mid-career development of the OA research workforce.
 
-### Summary of Research Programme 2022-2027
+Current initiatives:
+1) Developing a Consumer, Patient & Public Partnership Panel
+2) Developing an Early- and Mid-Career Researcher (EMCR) support network 
+3) Providing continuing researcher development short-course and webinar opportunities.
 
-Osteoarthritis is among the most common long-term conditions in New Zealand. The burden of pain, disability and economic costs is rising – especially for Māori. Access to treatments is poor. Joint replacement surgery is highly cost-effective, but demand – already straining capacity – is growing rapidly. Cost-effective interventions for early- and mid-stage osteoarthritis are known to have good outcomes and are potentially cost-saving compared to current practice, but are not being delivered. Multimorbidity is common. Coping with future demand will require optimising resource allocation; we must consider preventive measures and coordinated delivery of accessible, equitable, effective and cost-effective interventions. This programme of research of four linked multi-disciplinary projects will look at ways to deliver the best value for money and equity in managing osteoarthritis in the New Zealand public healthcare system, from prevention through to joint replacement surgery.
+### New Opportunity:
+OARnet short course *“An introduction to qualitative research for clinician researchers”*
 
----
+An in-person short course and workshop to be offered in Auckland over two ½ days in the week of July 17th.
 
-**A Cohesive, Collaborative Programme of Four Inter-related Projects**
+This course and workshop will be led by Dr Sam Bunzli (Griffith University) and Dr Penny O’Brien (University of Melbourne, OPUS group). The course has been popular and very well received when run in Australia by the OPUS group. For further details, see: https://opus-tjr.org.au/programs/quali-research/ 
 
-<img src="/images/Programme hands.jpg" class=center />
+**Early-Career Researchers** OARnet is able to offer this course **at no cost** to qualifying OARnet member researchers within 6 years of completing your PhD or enrolled in a graduate research degree (honours, masters, PhD). This **OARnet Scholarship Award** is made possible through a 100% subsidy on the registration fee, by successful application – there are a generous number of Awards available, but apply early to avoid missing out. Priority will be given to postdocs and PhD students who articulate in their application a strong justification of the benefit of attending this course.
 
-**The Programme aims to address the following key issues:**
+You can become an OARnet member simply by applying for this course subsidy, if you meet the criteria for membership: i.e. you are active in research related to osteoarthritis. Simply fill in the “become an OARnet member” fields in the form.
 
-###  <a href="https://uo-cmor.github.io/projects-one/">1. Allocative Efficiency </a>
+To apply for a 100% subsidy on the registration fee for this course, fill in the [linked application form](https://form.jotform.com/230506473152045)
 
-The allocative efficiency of intervention delivery across the disease course of OA, including health economic evaluation, population-based data analyses, equity analysis and computer simulation modelling.  
 
----
+The cost for this short course, for those not eligible for an OARnet subsidy, is $600. Register via the [application form.](https://form.jotform.com/230506473152045)
 
-### Risks, Impacts, Equity and Cost-Effectiveness
-
-### <a href="https://uo-cmor.github.io/projects-two/"> 2. What are the long-term impacts of ligament injury? </a>
-
-### <a href="https://uo-cmor.github.io/projects-three/"> 3. What are the impacts of opioid use around TJR surgery? </a>
-
-### <a href="https://uo-cmor.github.io/projects-four/"> 4. The cost-effectiveness of TJR in the Aotearoa health system </a>
-
----
-
-### <a href="https://uo-cmor.github.io/projects-five/"> 5. He Oranga mō te whanau </a>
-
-Improving outcomes for people with hip and knee OA and co-morbidities
-
----
-
-### <a href="https://uo-cmor.github.io/projects-six/"> 6. Mātauranga </a>
-A mātauranga approach to access, resourcing, and outcomes for Māori with OA
-
----
+**Contact:**
+Professor Haxby Abbott
+Director, Osteoarthritis Aotearoa Research Network (OARnet)
+Centre for Musculoskeletal Outcomes Research, University of Otago Medical School
