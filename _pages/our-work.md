@@ -4,7 +4,7 @@ title: "Management of Osteoarthritis"
 ---
  <a href="https://uo-cmor.github.io/OARnet-page"> <img src="/images/OARNet-logo-t.jpg" alt="OARNet Logo"> </a>
 
-<a href="www.link.com"> <img src="/images/OA-summit-logo-23-t.jpg" alt="OA Summit Logo"> </a>
+<a href="https://uo-cmor.github.io/OA-AoNZ-page"> <img src="/images/OA-summit-logo-23-t.jpg" alt="OA Summit Logo"> </a>
 
 # Reducing the burden of osteoarthritis in Aotearoa New Zealand
 
