@@ -8,7 +8,7 @@ title: "Management of Osteoarthritis"
 
 # Reducing the burden of osteoarthritis in Aotearoa New Zealand
 
-![Moa Logo](/images/Moa-Logo.jpg)
+![Moa Logo](/images/MOA-logo-t.jpg)
 
 ### Summary of Research Programme 2022-2027
 
