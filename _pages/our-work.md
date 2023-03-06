@@ -1,16 +1,16 @@
 ---
 permalink: /our-work/
-title: "Management of Osteoarthritis"
+title: "Kaikōiwi Osteoarthritis"
 ---
  <a href="https://uo-cmor.github.io/OARnet-page"> <img src="/images/OARNet-logo-t.jpg" alt="OARNet Logo"> </a>
 
 <a href="https://uo-cmor.github.io/OA-AoNZ-page"> <img src="/images/OA-summit-logo-23-t.jpg" alt="OA Summit Logo"> </a>
 
-# Reducing the burden of osteoarthritis in Aotearoa New Zealand
+# Management of Osteoarthritis
 
 ![Moa Logo](/images/MOA-logo-t.jpg)
 
-### Summary of Research Programme 2022-2027
+### HRC Research Programme 2022-2027 - Reducing the burden of osteoarthritis in Aotearoa New Zealand
 
 Osteoarthritis is among the most common long-term conditions in New Zealand. The burden of pain, disability and economic costs is rising – especially for Māori. Access to treatments is poor. Joint replacement surgery is highly cost-effective, but demand – already straining capacity – is growing rapidly. Cost-effective interventions for early- and mid-stage osteoarthritis are known to have good outcomes and are potentially cost-saving compared to current practice, but are not being delivered. Multimorbidity is common. Coping with future demand will require optimising resource allocation; we must consider preventive measures and coordinated delivery of accessible, equitable, effective and cost-effective interventions. This programme of research of four linked multi-disciplinary projects will look at ways to deliver the best value for money and equity in managing osteoarthritis in the New Zealand public healthcare system, from prevention through to joint replacement surgery.
 
