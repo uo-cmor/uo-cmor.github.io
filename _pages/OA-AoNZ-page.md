@@ -3,7 +3,8 @@ permalink: /OA-AoNZ-page/
 title: "OA AoNZ"
 ---
 
-<img src="/images/OA-Summit-logo-t2.jpg" alt="OA Summit Logo" width="60%">
+[![OA Summit Logo](/images/OA-summit-logo-t2.jpg)](https://events.otago.ac.nz/2023-oa-summit)
+
 
 ## The Osteoarthritis Summit Kaupapa
 The purpose of the Aotearoa New Zealand Osteoarthritis Summit initiative is to facilitate strategic planning for a national response to the growing burden of OA and its consequences, and to galvanise action on addressing this. It takes inspiration from the successful series of Osteoarthritis Summits in Australia, led by prominent rheumatologist and world-leading OA expert Professor David Hunter.
