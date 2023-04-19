@@ -36,7 +36,7 @@ title: "Our People"
 
 * Dr Jo Kennedy
 * Dr Anupa Pathak
-* Dr Jason Chua
-* Dr Saurab Sharma
+* [Dr Jason Chua](https://academics.aut.ac.nz/jason.chua)
+* [Dr Saurab Sharma](https://www.unsw.edu.au/staff/saurab-sharma)
 * [Dr David Kieser](https://www.otago.ac.nz/christchurch/departments/orthomsm/people/david-kieser.html)
 * Professor Mark Melloh
