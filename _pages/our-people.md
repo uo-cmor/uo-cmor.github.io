@@ -9,7 +9,7 @@ title: "Our People"
 *Research Professor. Director, CMOR. Director, OARnet. Director, Management of Osteoarthritis Programme*
 * [Professor David Gwynne-Jones](https://www.otago.ac.nz/dsm-surgery/staff/expertise/profile/index.html?id=723)  
 *Clinical Leader, Orthopaedic Department, Dunedin Hospital*
-* [Dr Ross Wilson](https://www.otago.ac.nz/medical-school/people/expertise/profile/index.html?id=2457)  
+* [Dr Ross Wilson](https://rosswilson-nz.github.io)  
 *Senior Research Fellow*
 * Dr Yana Pryymachenko  
 *Postdoctoral Fellow*
@@ -21,13 +21,16 @@ title: "Our People"
 * Richelle Caya
 * Rory Christopherson
 
-## Affiliated academic staff
+## Affiliated researchers
 
 * [Associate Professor Ben Darlow](https://www.otago.ac.nz/wellington/departments/primaryhealthcaregeneralpractice/staff/otago088308.html)  
 *Associate Professor, Department of Primary Health Care and General Practice, University of Otago, Wellington*
 
 * [Dr Ben Hudson](https://www.otago.ac.nz/christchurch/research/generalpractice/ourpeople/ben-hudson.html)  
 *Senior Lecturer, Department of General Practice, University of Otago, Christchurch*
+
+* Andrés Pierobon  
+*PhD student, Department of Primary Health Care and General Practice, University of Otago, Wellington*
 
 ## Past PhD students
 
