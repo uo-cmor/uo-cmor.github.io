@@ -11,13 +11,21 @@ website:
     background: "white"
     right:
       - href: index.qmd
-        text: Home
-      - href: hrc-programme.qmd
-        text: HRC Programme
+        text: "*Kāinga*<br>Home"
+      - text: "*Mahi*<br>Our work"
+        menu:
+          - href: our-work.qmd
+            text: Overview
+          - href: oarnet.qmd
+            text: Osteoarthritis Aotearoa Research Network
+          - href: hrc-programme.qmd
+            text: "HRC Programme 2022--2027"
       - href: publications.qmd
-        text: Publications
+        text: "*Puka rangahau*<br>Publications"
+      - href: events.qmd
+        text: "*Kaupapa*<br>Events"
       - href: our-people.qmd
-        text: Our people
+        text: "*Ō mātou tāngata*<br>Our people"
 
   sidebar:
     style: "floating"

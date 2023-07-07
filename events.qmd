@@ -1,0 +1,13 @@
+---
+title: "Events"
+toc: true
+toc-depth: 2
+---
+
+## Osteoarthritis Aotearoa New Zealand OA Summit
+
+![](_images/OA-Summit-logo-23.jpg){width=200} 
+
+The Aotearoa New Zealand Osteoarthritis Summit 2023 will be held in Dunedin on 2--4 November. For event information, [click here](oa-summit-2023.qmd).
+
+
