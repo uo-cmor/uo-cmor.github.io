@@ -22,5 +22,11 @@
       "/publications/joint-clinic-outcomes.html",
       "/publications/group-differences-pain-beliefs.html"
     ]
+  },
+  {
+    "listing": "/events.html",
+    "items": [
+      "/events/oa-summit-2023.html"
+    ]
   }
 ]

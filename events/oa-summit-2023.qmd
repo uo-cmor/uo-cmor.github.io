@@ -1,5 +1,7 @@
 ---
 title: "Osteoarthritis Aotearoa New Zealand OA Summit"
+description: "The Osteoarthritis Aotearoa New Zealand OA Summit will be held in Dunedin on 2--4 November."
+image: "../_images/OA-Summit-logo-23.jpg"
 toc: true
 toc-depth: 2
 ---
