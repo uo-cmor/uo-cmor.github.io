@@ -1,0 +1,35 @@
+---
+title: "Cross-cultural adaptation and validation of the Nepali translation of the patient-specific functional scale"
+subtitle: 'Journal of Orthopaedic and Sports Physical Therapy'
+date: 2018-08-01
+abstract: |
+  **Background**
+  The Patient-Specific Functional Scale (PSFS) is among the most commonly used measures to assess physical function.
+  
+  **Objectives**
+  We aimed to translate and cross-culturally validate the PSFS to Nepali and further assess its psychometric properties.
+  
+  **Methods**
+  This longitudinal, single-arm cohort study translated and cross-culturally adapted the PSFS to Nepali (PSFS-NP) following recommended guidelines. A sample of 104 Nepalese with musculoskeletal pain was recruited to evaluate the psychometric properties of the PSFS-NP. We assessed the internal consistency (Cronbach alpha), 2-week test-retest reliability (intraclass correlation coefficient [ICC3,2]), the smallest detectable change at the 90% confidence interval (CI), and construct validity. Concurrent validity was assessed against the Nepali versions of the Oswestry Disability Index, global rating of change, and numeric pain-rating scale. Receiver operating characteristic curves were plotted to measure responsiveness and area under the curve, and the minimum important change (MIC) was estimated.
+  
+  **Results**
+  The PSFS-NP showed good reliability, with a Cronbach alpha of .75, an ICC of 0.89 (95% CI: 0.78, 0.94), and a smallest detectable change at the 90% CI of 1.46. It demonstrated significant correlations with the Nepali versions of the Oswestry Disability Index (r = −0.47, P = .001), global rating of change (r = 0.71, P<.001), and numeric pain-rating scale (r = −0.32 and −0.55, P<.001). Areas under the curve ranged from 0.72 to 0.99. The MIC was 2.00 in the main analysis. Secondary analyses revealed MICs of 0.50, 0.66, and 2.00 for small, medium, and large improvement, respectively.
+  
+  **Conclusion**
+  The PSFS-NP is a reliable, valid, and responsive measure. It can be used in clinical practice and research in Nepalese with musculoskeletal pain.
+paperurl: 'https://doi.org/10.2519/jospt.2018.7925'
+citation: 
+  type: article-journal
+  container-title: "Journal of Orthopaedic and Sports Physical Therapy"
+  author:
+    - name: Saurab Sharma
+    - name: Joshna Palanchoke
+    - name:
+        family: Abbott
+        given: J. Haxby
+  volume: 48
+  issue: 8
+  page: "659-664"
+  issued: 2018
+  doi: 10.2519/jospt.2018.7925
+---

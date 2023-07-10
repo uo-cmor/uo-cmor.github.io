@@ -1,0 +1,37 @@
+---
+title: "Clinimetric properties of the nepali version of the pain Catastrophizing scale in individuals with chronic pain"
+subtitle: 'Journal of Pain Research'
+date: 2018-01-31
+abstract: |
+  **Background**
+  Pain catastrophizing is an exaggerated negative cognitive response related to pain. It is commonly assessed using the Pain Catastrophizing Scale (PCS). Translation and validation of the scale in a new language would facilitate cross-cultural comparisons of the role that pain catastrophizing plays in patient function.
+  
+  **Purpose**
+  The aim of this study was to translate and culturally adapt the PCS into Nepali (Nepali version of PCS [PCS-NP]) and evaluate its clinimetric properties.
+  
+  **Methods**
+  We translated, cross-culturally adapted, and performed an exploratory factor analysis (EFA) of the PCS-NP in a sample of adults with chronic pain (N=143). We then confirmed the resulting factor model in a separate sample (N=272) and compared this model with 1-, 2-, and 3-factor models previously identified using confirmatory factor analyses (CFAs). We also computed internal consistencies, test–retest reliabilities, standard error of measurement (SEM), minimal detectable change (MDC), and limits of agreement with 95% confidence interval (LOA95%) of the PCS-NP scales. Concurrent validity with measures of depression, anxiety, and pain intensity was assessed by computing Pearson’s correlation coefficients.
+  
+  **Results**
+  The PCS-NP was comprehensible and culturally acceptable. We extracted a two-factor solution using EFA and confirmed this model using CFAs in the second sample. Adequate fit was also found for a one-factor model and different two- and three-factor models based on prior studies. The PCS-NP scores evidenced excellent reliability and temporal stability, and demonstrated validity via moderate-to-strong associations with measures of depression, anxiety, and pain intensity. The SEM and MDC for the PCS-NP total score were 2.52 and 7.86, respectively (range of PCS scores 0–52). LOA95% was between -15.17 and +16.02 for the total PCS-NP scores.
+  
+  **Conclusion**
+  The PCS-NP is a valid and reliable instrument to assess pain catastrophizing in Nepalese individuals with chronic pain.
+paperurl: 'https://doi.org/10.2147/JPR.S153061'
+citation: 
+  type: article-journal
+  container-title: "Journal of Pain Research"
+  author:
+    - name: Saurab Sharma
+    - name: Pascal Thibault
+    - name:
+        family: Abbott
+        given: J. Haxby
+    - name:
+        family: Jensen
+        given: Mark P.
+  volume: 11
+  page: "265-276"
+  issued: 2018
+  doi: 10.2147/JPR.S153061
+---

@@ -1,0 +1,23 @@
+---
+title: "Sample size estimation for cluster randomized controlled trials"
+subtitle: 'Musculoskeletal Science and Practice'
+date: 2018-04-01
+abstract: |
+  Cluster randomized controlled trials (cRCTs) are commonly used by clinical researchers. The advantages of cRCTs include preventing treatment contamination, enhancing administrative efficiency, convenience, external validity, ethical considerations, and likelihood of increased compliance by participants. However, when designing a cRCT, clinical researchers are faced with challenges, such as cluster units that may not have an equal number of participants within each. In this Technical Note, we discuss approaches for estimating the sample size, while taking into account unequal cluster sizes, and strategies for optimizing the design of cluster trials.
+paperurl: 'https://doi.org/10.1016/j.msksp.2017.10.002'
+citation: 
+  type: article-journal
+  container-title: "Musculoskeletal Science and Practice"
+  author:
+    - name:
+        family: Ribeiro
+        given: Daniel Cury
+    - name: Stephan Milosavljevic
+    - name:
+        family: Abbott
+        given: J. Haxby
+  volume: 34
+  page: "108-111"
+  issued: 2018
+  doi: 10.1016/j.msksp.2017.10.002
+---

@@ -1,0 +1,33 @@
+---
+title: "Effectiveness of a lumbopelvic monitor and feedback device to change postural behaviour: A protocol for the ELF cluster randomised controlled trial"
+subtitle: 'BMJ Open'
+date: 2017-01-10
+abstract: |
+  **Introduction**
+  Low back pain (LBP) is the most common, costly and disabling musculoskeletal disorder worldwide, and is prevalent in healthcare workers. Posture is a modifiable risk factor for LBP shown to reduce the prevalence of LBP. Our feasibility research suggests that postural feedback might help healthcare workers avoid hazardous postures. The Effectiveness of Lumbopelvic Feedback (ELF) trial will investigate the extent to which postural monitor and feedback (PMF) can reduce exposure to hazardous posture associated with LBP.
+  
+  **Methods**
+  This is a participant-blinded, randomised controlled trial with blocked cluster random allocation. Participants will include volunteer healthcare workers recruited from aged care institutions and hospitals. A postural monitoring and feedback device will monitor and record lumbopelvic forward bending posture, and provide audio feedback whenever the user sustains a lumbopelvic forward bending posture that exceeds predefined thresholds. The primary outcome measure will be postural behaviour (exceeding thresholds). Secondary outcome measures will be incidence of LBP, participant-reported disability and adherence. Following baseline assessment, we will randomly assign participants to 1 of 2 intervention arms: a feedback group and a no-feedback control group. We will compare between-group differences of changes in postural behaviour by using a repeated measures mixed-effect model analysis of covariance (ANCOVA) at 6 weeks. Postural behaviour baseline scores, work-related psychosocial factors and disability scores will be input as covariates into the statistical models. We will use logistic mixed model analysis and Cox's proportional hazards for assessing the effect of a PMF on LBP incidence between groups.
+  
+  **Discussion**
+  Posture is a modifiable risk factor for low back disorders. Findings from the ELF trial will inform the design of future clinical trials assessing the effectiveness of wearable technology on minimising hazardous posture during daily living activities in patients with low back disorders.
+  
+  **Trial registration number**
+  ACTRN12616000449437.
+paperurl: 'https://doi.org/10.1136/bmjopen-2016-015568'
+citation: 
+  type: article-journal
+  container-title: "BMJ Open"
+  author:
+    - name:
+        family: Ribeiro
+        given: Daniel Cury
+    - name: Stephan Milosavljevic
+    - name:
+        family: Abbott
+        given: J. Haxby
+  volume: 7
+  page: "e015568"
+  issued: 2017
+  doi: 10.1136/bmjopen-2016-015568
+---

@@ -1,0 +1,46 @@
+---
+title: "Implementation of a ‘Joint Clinic’ to resolve unmet need for orthopaedic services in patients with hip and knee osteoarthritis: a program evaluation"
+subtitle: 'BMC Musculoskeletal Disorders'
+date: 2019-07-12
+abstract: |
+  **Background**
+  Osteoarthritis is the most common form of arthritis, principally affecting the older population. Highly prevalent, disabling diseases such as osteoarthritis strain the capacity of health systems, and can result in unmet need for services. The Joint Clinic was initiated to provide secondary care consultations and access to outpatient services for people with advanced hip or knee osteoarthritis, who were referred by their general practitioner for orthopaedic consultation but not offered an orthopaedic specialist appointment.
+  
+  **Methods**
+  This longitudinal programme evaluation comprised four components: a proof-of-concept evaluation; an implementation evaluation; a process evaluation; and an outcomes evaluation. Interviews and surveys of general practitioners, staff, and patients were conducted pre- and post-implementation. Interviews were transcribed, and thematic analysis was completed. In addition, Joint Clinic patient visits and outcomes were reviewed.
+  
+  **Results**
+  One hundred and eleven primary care physicians (GPs) and 66 patients were surveyed, and 28 semi-structured interviews of hospital staff and GPs were conducted. Proof of concept was satisfied. Interim and final implementation evaluations indicated adherence to the concept model, high levels of acceptance of and confidence in the programme and its staff, and timely completion within budget. Process evaluation revealed positive impacts of the programme and positive stakeholder perceptions, with some weaknesses in communication to the outer context of primary care. The Joint Clinic saw a total of 637 patient visits during 2 years of operation. Unmet need was reduced by 90%. Patient and referring physician satisfaction was high. Hospital management confirmed that the programme will continue.
+  
+  **Conclusions**
+  This evaluation indicates that the Joint Clinic concept model is fit for purpose, functioned well within the organisation, and achieved its primary objective of reducing unmet need of secondary care consultation for those suffering advanced hip or knee osteoarthritis.
+paperurl: 'https://doi.org/10.1186/s12891-019-2702-1'
+citation: 
+  type: article-journal
+  container-title: "BMC Musculoskeletal Disorders"
+  author:
+    - name:
+        family: Abbott
+        given: J. Haxby
+    - name:
+        family: Ward
+        given: Aimee L.
+    - name: Chris Crane
+    - name:
+        family: Chapple
+        given: Catherine M.
+    - name: Kirsten Stout
+    - name: Liam Hutton
+    - name: Virginia Martin
+    - name: Helen Harcombe
+    - name:
+        family: Ribeiro
+        given: Daniel C.
+    - name:
+        family: Gwynne Jones
+        given: David
+  volume: 20
+  page: "324"
+  issued: 2019
+  doi: 10.1186/s12891-019-2702-1
+---

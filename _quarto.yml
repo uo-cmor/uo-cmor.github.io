@@ -16,16 +16,20 @@ website:
         menu:
           - href: our-work.qmd
             text: Overview
-          - href: oarnet.qmd
-            text: Osteoarthritis Aotearoa Research Network
           - href: hrc-programme.qmd
             text: "HRC Programme 2022--2027"
+          - href: oarnet.qmd
+            text: Osteoarthritis Aotearoa Research Network
       - href: publications.qmd
         text: "*Puka rangahau*<br>Publications"
       - href: events.qmd
         text: "*Kaupapa*<br>Events"
+      - href: news.qmd
+        text: "*Ngā Karere*<br>News"
       - href: our-people.qmd
         text: "*Ō mātou tāngata*<br>Our people"
+      - href: teaching.qmd
+        text: "*Whakaako*<br>Teaching"
 
   sidebar:
     style: "floating"

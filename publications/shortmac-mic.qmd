@@ -1,0 +1,40 @@
+---
+title: "The ShortMAC: Minimum Important Change of a Reduced Version of the Western Ontario and McMaster Universities Osteoarthritis Index"
+subtitle: 'Journal of Orthopaedic and Sports Physical Therapy'
+date: 2018-02-01
+abstract: |
+  **Study Design**
+  Clinical measurement study; secondary analysis of randomized clinical trial data.
+  
+  **Background**
+  A 12-item shortened version (ShortMAC) of the Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC), a condition-specific, patient-reported osteoarthritis index, has been derived, published, and validated. The minimum important change (MIC) of the ShortMAC has not been reported or compared with the traditional 24-item WOMAC.
+  
+  **Objectives**
+  To investigate the MIC of the 12-item ShortMAC and the traditional 24-item WOMAC across 3 levels of patient-perceived global change.
+  
+  **Methods**
+  The Management of OsteoArthritis Trial cohort of 206 consecutive patients with knee or hip osteoarthritis was assessed at the initial visit and after 9 weeks of physical therapy (n = 155) or usual medical care (n = 51). The global rating of change instrument, assessed at the 9-week visit, provided the anchor. The MIC was calculated using receiver operating characteristic curve methodology for the ShortMAC and the traditional WOMAC, across 3 levels of patient-perceived change (small, medium, and large change) defined by the global rating of change.
+  
+  **Results**
+  The MICs for the ShortMAC and traditional WOMAC (both transformed to a scale from 0 to 100) were 7.9 and 9.8 points for small change, 8.4 and 9.8 points for medium change, and 12.1 and 10.1 points for large change, respectively. The MICs of the pain and function subscales are also reported for small, medium, and large changes.
+  
+  **Conclusion**
+  The lower point estimates for the MIC of the ShortMAC compared with that of the traditional WOMAC, using conventional definitions of MIC and half the number of items, indicate greater efficiency for use in clinical trials and reduced patient burden.
+paperurl: 'https://doi.org/10.2519/jospt.2018.7676'
+citation: 
+  type: article-journal
+  container-title: "Journal of Orthopaedic and Sports Physical Therapy"
+  author:
+    - name:
+        family: Abbott
+        given: J. Haxby
+    - name: Catherine Hobbs
+    - name: David Gwynne-Jones
+    - name:
+        family: MOA Trial Team
+  volume: 48
+  issue: 2
+  page: "81-86"
+  issued: 2018
+  doi: 10.2519/jospt.2018.7676
+---

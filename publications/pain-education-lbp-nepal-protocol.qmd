@@ -1,0 +1,36 @@
+---
+title: "Pain education for patients with non-specific low back pain in Nepal: Protocol of a feasibility randomised clinical trial (PEN-LBP Trial)"
+subtitle: 'BMJ Open'
+date: 2018-08-10
+abstract: |
+  **Introduction**
+  Low back pain (LBP) is the leading cause of years lived with disability in Nepal and elsewhere. Management of LBP that is evidence-based, easily accessible, cost-effective and culturally appropriate is desirable. The primary aim of this feasibility study is to determine if it is feasible to conduct a full randomised clinical trial evaluating the effectiveness of pain education as an intervention for individuals with LBP in Nepal, relative to guideline-based physiotherapy treatment. The findings of the study will inform the planning of a full clinical trial and if any modifications are required to the protocol before undertaking a full trial.
+  
+  **Methods/analysis**
+  This protocol describes an assessor-blinded feasibility clinical trial investigating feasibility of the pain education intervention in patients with non-specific LBP in a physiotherapy hospital in Kathmandu, Nepal. Forty patients with LBP will be randomly allocated to either pain education or guideline-based physiotherapy treatment (control). Outcomes will be assessed at baseline and at a 1 week post-treatment. The primary outcomes are related to feasibility, including: (1) participant willingness to participate in a randomised clinical trial, (2) feasibility of assessor blinding, (3) eligibility and recruitment rates, (4) acceptability of screening procedures and random allocation, (5) possible contamination between the groups, (6) intervention credibility, (7) intervention adherence, (8) treatment satisfaction and (9) difficulty in understanding the interventions being provided.
+  
+  **Ethics/dissemination**
+  The protocol was approved by Nepal Health Research Council (NHRC; registration number: 422/2017) and University of Otago Human Ethics Committee for Health (registration number: H17/157). The results of the study will be presented at national and international conferences and published in a peer-reviewed journal.
+  
+  **Trial registration number**
+  NCT03387228
+paperurl: 'https://doi.org/10.1136/bmjopen-2018-022423'
+citation: 
+  type: article-journal
+  container-title: "BMJ Open"
+  author:
+    - name: Saurab Sharma
+    - name:
+        family: Jensen
+        given: Mark P.
+    - name:
+        family: Moseley
+        given: G. Lorimer
+    - name:
+        family: Abbott
+        given: J. Haxby
+  volume: 8
+  page: "e022423"
+  issued: 2018
+  doi: 10.1136/bmjopen-2018-022423
+---

@@ -1,0 +1,42 @@
+---
+title: "Outcomes and Factors Influencing Response to an Individualized Multidisciplinary Chronic Disease Management Program for Hip and Knee Osteoarthritis"
+subtitle: 'Journal of Arthroplasty'
+date: 2018-09-01
+abstract: |
+  **Background**
+  The objective of the study was to investigate the effectiveness of, and factors associated with, response to a chronic disease management program for patients with hip and knee osteoarthritis (OA).
+  
+  **Methods**
+  Over a 2-year period (2012-2014), 218 patients (97 hip OA; 121 knee OA) were managed with an individualized program of interventions that could include education, physiotherapy, orthotics, occupational therapy, or dietitian referral. Changes in Oxford Hip Score or Oxford Knee Score and Short Form-12 (SF-12) Physical and Mental Component Summary Score (PCS, MCS) were analyzed by joint affected, both unadjusted, and gender and age adjusted. A further analysis also adjusted for body mass index.
+  
+  **Results**
+  At mean 12-month follow-up, patients with knee OA had a statistically significant improvement in Oxford Knee Score and PCS, while patients with hip OA had a statistically significant deterioration in all 3 scores. There was evidence that these changes differed between joints for Oxford and PCS scores. Older age was associated with worse outcomes for Oxford scores. Higher body mass index was associated with worse outcomes for Oxford and PCS scores. Patients with hip OA (35%) were more likely to deteriorate to a clinically significant extent (5 points) for Oxford scores than those with knee OA. Gender was not associated with outcomes. Patients with hip OA (54%) were more likely than those with knee OA (24%) to have subsequently had surgery (P < .001).
+  
+  **Conclusions**
+  Patients with knee OA were more likely to improve with a chronic disease management plan than patients with hip OA and efforts should be directed to them.
+paperurl: 'https://doi.org/10.1016/j.arth.2018.04.011'
+citation: 
+  type: article-journal
+  container-title: "Journal of Arthroplasty"
+  author:
+    - name:
+        family: Gwynne-Jones
+        given: David P.
+    - name:
+        family: Gray
+        given: Andrew R.
+    - name:
+        family: Hutton
+        given: Liam R.
+    - name:
+        family: Stout
+        given: Kirsten M.
+    - name:
+        family: Abbott
+        given: J. Haxby
+  volume: 33
+  issue: 9
+  page: "2780-2786"
+  issued: 2018
+  doi: 10.1016/j.arth.2018.04.011
+---

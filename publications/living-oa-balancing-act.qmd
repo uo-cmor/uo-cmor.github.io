@@ -1,0 +1,35 @@
+---
+title: "Living with osteoarthritis is a balancing act: An exploration of patients' beliefs about knee pain"
+subtitle: 'BMC Rheumatology'
+date: 2018-06-12
+abstract: |
+  **Background**
+  This study aimed to explore the beliefs of people with knee osteoarthritis (OA) about the disease, and how these beliefs had formed and what impact these beliefs had on activity participation, health behaviour, and self-management.
+  
+  **Methods**
+  Semi-structured interviews were conducted with 13 people with knee OA recruited from general practices, community physiotherapy clinics, and public advertisements in two provinces of New Zealand. Data were analysed using Interpretive Description.
+  
+  **Results**
+  Two key themes emerged. 1) Knowledge: certainty and uncertainty described participants’ strong beliefs about anatomical changes in their knee. Participants’ beliefs in a biomechanical model of progressive joint degradation often appeared to originate within clinical encounters and from literal interpretation of the term ‘wear and tear’. These beliefs led to uncertainty regarding interpretation of daily symptoms and participants’ ability to influence the rate of decline and certainty that joint replacement surgery represented the only effective solution to fix the damaged knee. 2) Living with OA described broader perspectives of living with OA and the perceived need to balance competing values and risks when making decisions about activity participation, medication, attentional focus, accessing care, and making the most of today without sabotaging tomorrow. Misunderstandings about knee OA negatively impacted on activity participation, health behaviours, and self-management decisions.
+  
+  **Conclusion**
+  Biomechanical models of OA reduced participant exploration of management options and underpinned a perceived need to balance competing values. Improved information provision to people with knee OA could help guide positive health behaviour and self-management decisions and ensure these decisions are grounded in current evidence.
+paperurl: 'https://doi.org/10.1186/s41927-018-0023-x'
+citation: 
+  type: article-journal
+  container-title: "BMC Rheumatology"
+  author:
+    - name: Ben Darlow
+    - name: Melanie Brown
+    - name: Bronwyn Thompson
+    - name: Ben Hudson
+    - name: Rebecca Grainger
+    - name: Eileen McKinlay
+    - name:
+        family: Abbott
+        given: J. Haxby
+  volume: 2
+  page: "15"
+  issued: 2018
+  doi: 10.1186/s41927-018-0023-x
+---

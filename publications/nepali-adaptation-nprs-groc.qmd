@@ -1,0 +1,32 @@
+---
+title: "Translation, cross-cultural adaptation and psychometric properties of the Nepali versions of numerical pain rating scale and global rating of change"
+subtitle: 'Health and Quality of Life Outcomes'
+date: 2017-12-04
+abstract: |
+  **Background**
+  Pain intensity and patients’ impression of global improvement are widely used patient-reported outcome measures (PROMs) in clinical practice and research. They are commonly assessed using the Numerical Pain Rating Scale (NPRS) and Global Rating of Change (GROC) questionnaires. The GROC is essential as an anchor for evaluating the psychometric properties of PROMs. Both of these PROMs are translated to many languages and have shown excellent psychometric properties. Their availability in Nepali would facilitate pain research and cross-cultural comparison of research findings. Therefore, the objectives of this study were to translate and cross-culturally adapt the NPRS and GROC into Nepali and to assess the psychometric properties of the Nepali version of the NPRS (NPRS-NP).
+  
+  **Methods**
+  After translating and cross-culturally adapting the NPRS and GROC into Nepali using recommended guidelines, NPRS-NP was administered to 104 individuals with musculoskeletal pain twice. The Nepali version of the GROC (GROC-NP) was administered at the follow-up for anchor-based assessment. (1) Test-retest reliability and minimum detectable change (MDC) among the stable group, (2) construct validity (by single sample t-test within the improved group and independent sample t-test between groups), and (3) concurrent validity were assessed. Receiver operating characteristic (ROC) curves were plotted to determine the responsiveness of the NPRS-NP using the area under the curve (AUC), and minimum important changes (MIC) for small, medium and large improvements.
+  
+  **Results**
+  Significant cultural adaptations were required to obtain relevant Nepali versions of both the NPRS and GROC. The NPRS-NP showed excellent test-retest reliability and a MDC of 1.13 points. NPRS-NP demonstrated a good construct validity by significant within-group difference in mean of NPRS score- t(63)=7.57, P<0.001 and statistically significant difference of mean score- t(98)=-4.24, P<.001 between the stable and improved groups. It demonstrated moderate concurrent correlation with the GROC-NP; r=0.43, P<0.01. Responsiveness of the NPRS-NP was shown at three levels with AUC=0.68–0.82, and MIC=1.17–1.33.
+  
+  **Conclusions**
+  The NPRS and GROC were successfully translated and culturally adapted into Nepali. The NPRS-NP demonstrated good reliability, validity and responsiveness in assessing musculoskeletal pain intensity in a Nepali population.
+paperurl: 'https://doi.org/10.1186/s12955-017-0812-8'
+citation: 
+  type: article-journal
+  container-title: "Health and Quality of Life Outcomes"
+  author:
+    - name: Saurab Sharma
+    - name: Joshna Palanchoke
+    - name: Darren Reed
+    - name:
+        family: Abbott
+        given: J. Haxby
+  volume: 15
+  page: "236"
+  issued: 2017
+  doi: 10.1186/s12955-017-0812-8
+---

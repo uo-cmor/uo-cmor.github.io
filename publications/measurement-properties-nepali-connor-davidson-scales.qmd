@@ -1,0 +1,34 @@
+---
+title: "Measurement properties of the Nepali version of the Connor Davidson resilience scales in individuals with chronic pain"
+subtitle: 'Health and Quality of Life Outcomes'
+date: 2018-04-03
+abstract: |
+  **Background**
+  Resilience is an individual’s ability to recover or “bounce back” from stressful events. It is commonly identified as a protective factor against psychological dysfunctions in wide range of clinical conditions including chronic pain. Resilience is commonly assessed using the Connor Davidson Resilience Scale (CD-RISC). Translation and cross-cultural adaptation of the CD-RISC into Nepali will allow for a deeper understanding of resilience as an important domain in health in Nepal, and will allow for cross-cultural comparison with other cultures. Therefore, the aims of the study were to translate and culturally adapt 10- and 2-item versions of the CD-RISC into Nepali and evaluate their psychometric properties.
+  
+  **Methods**
+  After translating the measures, we performed exploratory and confirmatory factor analyses of the 10-item version in two independent samples (ns = 131 and 134) of individuals with chronic pain. We then evaluated the internal consistency, test-retest stability, and construct validity of the 10- and 2-item measures in these samples. We also evaluated the internal consistency, and the construct and concurrent validity of the 2-item version in an additional sample of 140 individuals.
+  
+  **Results**
+  The results supported a single factor model for the 10-item measure; this measure also evidenced good to excellent internal consistency and excellent test-retest stability. Construct validity was supported via moderate associations with pain catastrophizing. The internal consistency of 2-item version was marginal, although construct validity was supported via weak to moderate associations with measures of pain catastrophizing, depression and anxiety, and concurrent validity was supported by strong association with the 10-item CD-RISC scale.
+  
+  **Conclusion**
+  The findings support the reliability and validity of the 10-item Nepali version of the CD-RISC, and use of the 2-item version in survey studies in individuals with chronic pain. The availability of these translated measures will allow for cross-cultural comparisons of resilience in samples of individuals with chronic pain.
+paperurl: 'https://doi.org/10.1186/s12955-018-0884-0'
+citation: 
+  type: article-journal
+  container-title: "Health and Quality of Life Outcomes"
+  author:
+    - name: Saurab Sharma
+    - name: Anupa Pathak
+    - name:
+        family: Abbott
+        given: J. Haxby
+    - name:
+        family: Jensen
+        given: Mark P.
+  volume: 16
+  page: "56"
+  issued: 2018
+  doi: 10.1186/s12955-018-0884-0
+---

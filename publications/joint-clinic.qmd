@@ -1,0 +1,39 @@
+---
+title: "The Joint Clinic: Managing Excess Demand for Hip and Knee Osteoarthritis Referrals Using a New Physiotherapy-Led Outpatient Service"
+subtitle: 'Journal of Arthroplasty'
+date: 2018-04-01
+abstract: |
+  **Background**
+  There are increasing problems with access to both outpatient assessment and joint replacement surgery for patients with hip or knee osteoarthritis.
+  
+  **Methods**
+  Data were collected on all patients seen at the Joint Clinic over a 2-year period with minimum 12-month follow-up. Patients were assessed by a nurse and a physiotherapist, baseline scores and demographic details collected, and an individualized personal care plan developed. Patients could be referred for a first specialist assessment (FSA) if their severity justified surgical assessment.
+  
+  **Results**
+  Three hundred fifty-eight patients were seen at Joint Clinic, of whom 150 (44%) had hip and 189 (56%) had knee OA. The mean age was 67.4 years and there were 152 men (45%) and 187 women (55%). The mean baseline Oxford score was 19.8 (standard deviation 8.2). Fifty-four patients were referred directly to FSA (mean Oxford score 13.0, standard deviation 6.7) and 89 after a subsequent review. The scores of patients referred for FSA were significantly worse than those managed in the Joint Clinic (P < .001). Of the 143 referred for FSA, 115 underwent or were awaiting surgery, 18 were recommended surgery but scored below prioritization threshold, and 10 were not recommended surgery. The Oxford scores of the 194 patients managed non-operatively improved from 22.0 to 25.0 (P = .0013).
+  
+  **Conclusion**
+  This study shows that the Joint Clinic was effective as a triage tool with 93% of those referred for FSA being recommended surgery. This has freed up surgeon time to see only those patients most in need of surgical assessment.
+paperurl: 'https://doi.org/10.1016/j.arth.2017.11.034'
+citation: 
+  type: article-journal
+  container-title: "Journal of Arthroplasty"
+  author:
+    - name:
+        family: Gwynne-Jones
+        given: David P.
+    - name:
+        family: Hutton
+        given: Liam R.
+    - name:
+        family: Stout
+        given: Kirsten M.
+    - name:
+        family: Abbott
+        given: J. Haxby
+  volume: 33
+  issue: 4
+  page: "983-987"
+  issued: 2018
+  doi: 10.1016/j.arth.2017.11.034
+---

@@ -1,0 +1,36 @@
+---
+title: "Effectiveness of extrinsic feedback for management of non-specific low back pain: A systematic review protocol"
+subtitle: 'BMJ Open'
+date: 2018-05-05
+abstract: |
+  **Introduction**
+  Low back pain is the greatest cause of years lived with disability worldwide and is linked with high societal and economic burden. Neuromuscular control impairments are a common clinical presentation in patients with non-specific low back pain. Musculoskeletal physiotherapists commonly use feedback as a part of the management of low back disorders. This systematic review will aim to assess the effectiveness of extrinsic biofeedback for reducing pain, disability and recurrence of pain in patients with non-specific low back pain.
+  
+  **Methods and analysis**
+  Systematic searches will be performed in CINAHL, Embase, Medline, PsycInfo, Scopus and Web of Science. We will include randomised controlled trial studies, if the study recruited patients with non-specific low back pain; compared extrinsic feedback versus either placebo or control; another intervention; or in addition to an intervention versus that intervention alone; and have used pain, disability scores or low back pain recurrence as outcome measures. We will exclude studies with designs other than randomised controlled trials. We will assess the risk of bias within included studies using the PEDro scale, and the strength of evidence using the Grades of Recommendation, Assessment, Development and Evaluation approach.
+  
+  **Ethics and dissemination**
+  Ethical approval and patient consent are not required since this is a systematic review based on published studies. The results of this study will be published in an international peer-reviewed journal.
+  
+  **PROSPERO registration number**
+  CRD42017077888
+paperurl: 'https://doi.org/10.1136/bmjopen-2017-021259'
+citation: 
+  type: article-journal
+  container-title: "BMJ Open"
+  author:
+    - name: 
+        family: Ribeiro
+        given: Daniel Cury
+    - name:
+        family: Mącznik
+        given: Aleksandra Katarzyna
+    - name: Stephan Milosavljevic
+    - name:
+        family: Abbott
+        given: J. Haxby
+  volume: 8
+  page: "e021259"
+  issued: 2018
+  doi: 10.1136/bmjopen-2017-021259
+---

@@ -14,32 +14,24 @@ Osteoarthritis is among the most common long-term conditions in New Zealand. The
 
 ***
 
-[**1. Allocative Efficiency**](hrc-programme/allocative-efficiency-project.qmd)
+[**1. Allocative Efficiency**](des-modelling.qmd)
 
 The allocative efficiency of intervention delivery across the disease course of OA, including health economic evaluation, population-based data analyses, equity analysis and computer simulation modelling.
 
 ***
 
-**2. Risks, Impacts, Equity, and Cost-Effectiveness**
+[**2. Risks, Impacts, Equity, and Cost-Effectiveness**](risks-impacts-equity-cost-effectiveness.qmd)
 
-Computer simulation modelling requires detailed input data describing the key relationships between patient attributes, event occurrence, and the cost and effects outcomes associated with disease states and interventions. In addition to data already used to provide inputs for our existing NZ-MOA simulation model, past HRC-funded projects, published results from the epidemiological literature, and findings from other projects within the Programme, we will conduct the additional empirical and epidemiological studies described below to provide necessary input data for modelling work.
-
-:::{style="margin-left:1em"}
-[*2a. What are the long-term impacts of ligament injury?*](hrc-programme/acl-project.qmd)
-
-[*2b. What are the impacts of opioid use around TJR surgery?*](hrc-programme/opioids-project.qmd)
-
-[*2c. The cost-effectiveness of TJR in the Aotearoa health system*](hrc-programme/tjr-project.qmd)
-:::
+Computer simulation modelling requires detailed input data describing the key relationships between patient attributes, event occurrence, and the cost and effects outcomes associated with disease states and interventions. In addition to data already used to provide inputs for our existing NZ-MOA simulation model, past HRC-funded projects, published results from the epidemiological literature, and findings from other projects within the Programme, we will conduct additional empirical and epidemiological studies to provide necessary input data for modelling work.
 
 ***
 
-[**3. He Oranga mō te whanau**](hrc-programme/multimorbidity-trial.qmd)
+[**3. He Oranga mō te whanau**](moa-pip-trial.qmd)
 
-Improving outcomes for people with hip and knee OA and co-morbidities
+Improving outcomes for people with hip and knee OA and comorbidities.
 
 ***
 
-[**4. Mātauranga**](hrc-programme/matauranga-project.qmd)
+[**4. Mātauranga**](matauranga.qmd)
 
-A mātauranga approach to access, resourcing, and outcomes for Māori with OA
+A mātauranga approach to access, resourcing, and outcomes for Māori with OA.

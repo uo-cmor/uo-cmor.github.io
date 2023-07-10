@@ -1,0 +1,35 @@
+---
+title: "The utility and validity of pain intensity rating scales for use in developing countries"
+subtitle: 'Pain Reports'
+date: 2018-09-01
+abstract: |
+  **Introduction**
+  Pain intensity is the domain most often assessed in pain research. Although the Numerical Rating Scale is recommended for use in western countries, the utility and validity of this scale, relative to others, has not been established in non–western developing countries, such as Nepal.
+  
+  **Objectives**
+  Here, we sought to (1) identify which of 4 commonly used pain scales is most preferred by Nepalese, (2) compare error rates, (3) determine whether preference and error rates are influenced by age or education level, and (4) evaluate construct validity of each scale using factor analysis.
+  
+  **Methods**
+  Two hundred two adults with musculoskeletal pain from Nepal rated their worst and average pain intensity using all 4 scales and selected their most preferred scale.
+  
+  **Results**
+  The results indicate that the Faces Pain Scale-Revised is the most preferred scale, followed by a Verbal Rating Scale. The Numerical Rating Scale and Visual Analogue Scale were both least preferred and had higher rates of incorrect responses, especially among the older participants. However, all the scales demonstrated adequate construct validity as measures of pain intensity among those participants who could accurately use all 4 scales.
+  
+  **Conclusion**
+  The findings indicate that the Faces Pain Scale-Revised should be the first choice for assessing pain intensity in Nepalese adults. Research is needed to determine whether these findings replicate in other non–western and developing countries, to identify the pain intensity measure that would be the best choice for use in cross-cultural pain research.
+paperurl: 'https://doi.org/10.1097/PR9.0000000000000672'
+citation: 
+  type: article-journal
+  container-title: "Pain Reports"
+  author:
+    - name: Anupa Pathak
+    - name: Saurab Sharma
+    - name:
+        family: Jensen
+        given: Mark P.
+  volume: 3
+  issue: 5
+  page: "e672"
+  issued: 2018
+  doi: 10.1097/PR9.0000000000000672
+---

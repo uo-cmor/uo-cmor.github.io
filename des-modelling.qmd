@@ -1,6 +1,6 @@
 ---
 title: "HRC Programme 2022--2027"
-subtitle: "Project 1: Optimal treatment of hip and knee OA across the disease course"
+subtitle: "Project 1: Allocative efficiency in the management of hip and knee OA"
 toc-depth: 3
 ---
 

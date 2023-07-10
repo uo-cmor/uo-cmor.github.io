@@ -1,0 +1,36 @@
+---
+title: "Effectiveness of a tailored rehabilitation versus standard strengthening programme for patients with shoulder pain: A protocol for a feasibility randomised controlled trial (the Otago MASTER trial)"
+subtitle: 'BMJ Open'
+date: 2019-07-30
+abstract: |
+  **Introduction**
+  Exercise therapy is the treatment of choice for the management of patients with shoulder subacromial pain. However, we do not know whether a tailored rehabilitation programme is more effective than a standardised strengthening programme. The aim of this feasibility trial is to assess: (1) participant recruitment rate, (2) the proportion of participants enrolled from the total number screened, (3) adherence to the rehabilitation programme, (4) drop-out rates, (5) obtain estimates of adverse reactions to treatment, (6) obtain estimates of intervention effects in order to inform the sample size of the fully-powered randomised controlled trial, (7) conduct a preliminary cost-effectiveness analysis of the standardised strengthening and the tailored rehabilitation interventions.
+  
+  **Methods**
+  The MAnagement of Subacromial disorders of The shouldER (MASTER) trial, is a two-arm, patient-blinded and assessor-blinded, randomised controlled feasibility trial. Participants will be randomly allocated into one of the interventions group: tailored or standardised rehabilitation. To obtain estimates of intervention effects, we will compare changes in pain and shoulder-related disability scores between the two intervention groups using a repeated mixed-model analysis of variance, with alpha set at 0.05, and power at 80%. Since this is a feasibility study, we will not adjust alpha for multiple comparisons. To determine whether it is feasible to conduct the full trial, we will consider 75% CI as the probability threshold at 3-month follow-up.
+  
+  **Ethics and dissemination**
+  This study was approved by the University of Otago Ethics Committee (Ref: H17/080). Findings from this study will be presented at national and international conferences, and will be submitted for publication in a peer-reviewed journal.
+  
+  **Trial registration number**
+  ANZCTR: 12617001405303
+paperurl: 'https://doi.org/10.1136/bmjopen-2018-028261'
+citation: 
+  type: article-journal
+  container-title: "BMJ Open"
+  author:
+    - name:
+        family: Ribeiro
+        given: Daniel C.
+    - name:
+        family: Tangrood
+        given: Zohreh Jafarian
+    - name: Gisela Sole
+    - name:
+        family: Abbott
+        given: J. Haxby
+  volume: 9
+  page: "e028261"
+  issued: 2019
+  doi: 10.1136/bmjopen-2018-028261
+---

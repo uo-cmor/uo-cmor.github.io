@@ -1,0 +1,26 @@
+---
+title: "Health system strengthening is needed to respond to the burden of pain in low-and middle-income countries and to support healthy ageing"
+subtitle: "Journal of Global Health"
+date: "2019-12-01"
+abstract: |
+  Although pain is experienced across the life course, the prevalence, particularly of musculoskeletal pain, increases with age. Musculoskeletal pain disproportionately affects people in low- and middle-income countries (LMICs) and the associated disease burden continues to rise. About 25% of the general population in LMICs experience chronic musculoskeletal pain, and this estimate increases by two to four times among working populations. Musculoskeletal conditions represented the leading cause of disability in people aged 50-69 years among low-middle sociodemographic index (SDI) countries in the 2017 Global Burden of Disease (GBD) study and the second leading cause in people aged 70 years and over. Pain management, particularly for musculoskeletal conditions, is necessary for improving quality of life and enabling functional ability, work and participation to avoid poverty. In the context of rapid global ageing, particularly in LMICs, system strengthening approaches for pain management are urgently needed to respond to this global health burden.
+citation: 
+  type: article-journal
+  container-title: "Journal of Global Health"
+  author:
+    - name: Saurab Sharma
+    - name:
+        family: Blyth
+        given: Fiona M.
+    - name:
+        family: Mishra
+        given: Shiva Raj
+    - name:
+        family: Briggs
+        given: Andrew M.
+  volume: 9
+  issue: 2
+  page: "020317"
+  issued: 2019
+  doi: 10.7189/jogh.09.020317
+---

@@ -1,0 +1,35 @@
+---
+title: "Socioeconomic factors, psychological factors, and function in adults with chronic musculoskeletal pain from rural Nepal"
+subtitle: 'Journal of Pain Research'
+date: 2018-10-17
+abstract: |
+  **Background**
+  Both socioeconomic and psychological factors have been shown to predict patient function in samples of individuals with chronic pain in Western countries. However, little is known about their role as predictors of function in individuals with chronic pain from developing countries.
+  
+  **Purpose**
+  The purpose of this study was to examine the associations between measures of socioeconomic factors (income, education) and psychological factors (catastrophizing and resilience) and measures of function in a sample of individuals with chronic pain from rural Nepal. In addition, we sought to evaluate the moderating effects of socioeconomic factors on the associations between the psychological variables and function.
+  
+  **Methods**
+  We interviewed 143 adults with chronic musculoskeletal pain from rural areas of Nepal to assess income, education level, pain intensity, catastrophizing, resilience, physical function, and depression. We performed two regression analyses to evaluate the direct and unique effects of the socioeconomic and psychological variables and pain intensity as predictors of patient function, as well as the moderating influence of income, education level, and pain intensity on the associations between the psychological variables and function.
+  
+  **Results**
+  Education and income both predicted physical function, but only income predicted depression. In addition, pain catastrophizing, but not resilience, evidenced a direct and significant independent association with depression. Neither catastrophizing nor resilience made independent and significant direct contributions to the prediction of physical function. The association between resilience and physical function was moderated by pain intensity and income, and income (but not education or pain intensity) moderated the associations between both 1) resilience and depression and 2) catastrophizing and depression.
+  
+  **Conclusion**
+  The results suggest the possibility that cultural differences may influence the role that psychosocial factors play in chronic pain adjustment. These findings have important implications regarding how psychosocial pain interventions should be adapted by individuals in developing countries.
+paperurl: 'https://doi.org/10.2147/JPR.S173851'
+citation: 
+  type: article-journal
+  container-title: "Journal of Pain Research"
+  author:
+    - name: Saurab Sharma
+    - name: Anupa Pathak
+    - name: Jyoti Jha
+    - name:
+        family: Jensen
+        given: Mark P.
+  volume: 11
+  page: "2385-2396"
+  issued: 2018
+  doi: 10.2147/JPR.S173851
+---
