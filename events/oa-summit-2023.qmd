@@ -1,18 +1,16 @@
 ---
-title: "Osteoarthritis Aotearoa New Zealand OA Summit"
-description: "The Osteoarthritis Aotearoa New Zealand OA Summit will be held in Dunedin on 2--4 November."
+title: "Osteoarthritis Aotearoa New Zealand OA Summit 2023"
+description: "The Osteoarthritis Aotearoa New Zealand OA Summit 2023 will be held in Dunedin on 2--4 November"
 image: "../_images/OA-Summit-logo-23.jpg"
-toc: true
-toc-depth: 2
+date: "2023-07-10"
+toc: false
 ---
-
-[OA Summit website (University of Otago)](https://events.otago.ac.nz/2023-oa-summit)
 
 ## The Osteoarthritis Summit Kaupapa
 
 The purpose of the Aotearoa New Zealand Osteoarthritis Summit initiative is to facilitate strategic planning for a national response to the growing burden of OA and its consequences, and to galvanise action on addressing this. It takes inspiration from the successful series of Osteoarthritis Summits in Australia, led by prominent rheumatologist and world-leading OA expert Professor David Hunter. The key objectives of our kaupapa are as follows.
 
-1. To develop a prioritised list of national priorities in osteoarthritis research and innovative health delivery:
+1. **To develop a prioritised list of national priorities in osteoarthritis research and innovative health delivery:**
 
     (i) Identify research and innovative health delivery priorities for the next three to five years that offer the greatest potential benefit for alleviating the burden of OA.
   
@@ -22,7 +20,7 @@ The purpose of the Aotearoa New Zealand Osteoarthritis Summit initiative is to f
   
     (iv) Connect the OA research and innovative health delivery community, foster increased collaboration in OA research and innovative health delivery in Aotearoa New Zealand, and facilitate a cohesive approach to OA research and innovative health delivery in Aotearoa New Zealand from basic science to translational research and implementation by forming an OA research network and facilitating interdisciplinary and inter-institutional collaboration.
 
-2. To co-create a national Model of Care for Osteoarthritis. Toward this objective we will:
+2. **To co-create a national Model of Care for Osteoarthritis. Toward this objective we will:**
 
     (i) Develop and promote a mission statement for the kaupapa/initiative, exemplifying the best care for people with OA in Aotearoa New Zealand.
     
@@ -50,3 +48,6 @@ The Organising Committee of this multidisciplinary event are:
 ### OA Summit 2023, Dunedin, Nov 2--4
 
 This event combines the Osteoarthritis Aotearoa New Zealand Research Network | *Te Anga Kaikōiwi o Aotearoa* annual conference (Day 1) and the Taumata Kaikōiwi Aotearoa New Zealand Osteoarthritis Summit 2023 (Day 2). We are planning a workshop for participants to contribute to the development of a national OA Model of Care for the Aotearoa New Zealand public health system. Participants may register for either one or both days. Registration for day 2 will include participation in the workshop on day 3 (Nov 4). The Taumata Kaikōiwi Aotearoa New Zealand Osteoarthritis Summit aims to facilitate strategic planning for a national response to the growing burden of OA and its consequences, and to galvanise action on addressing this.
+
+[OA Summit website (University of Otago)](https://events.otago.ac.nz/2023-oa-summit)
+

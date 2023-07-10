@@ -26,7 +26,9 @@
   {
     "listing": "/events.html",
     "items": [
-      "/events/oa-summit-2023.html"
+      "/events/oa-summit-2023.html",
+      "/events/oa-summit-2022.html",
+      "/events/oa-basecamp-2021.html"
     ]
   }
 ]

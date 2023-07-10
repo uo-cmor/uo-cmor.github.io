@@ -4,5 +4,6 @@ listing:
   contents: "events/*.qmd"
   sort: "date desc"
   image-align: left
+  fields: [title, subtitle, author, description, image]
 ---
 
