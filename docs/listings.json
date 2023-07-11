@@ -1,13 +1,5 @@
 [
   {
-    "listing": "/events.html",
-    "items": [
-      "/events/oa-summit-2023.html",
-      "/events/oa-summit-2022.html",
-      "/events/oa-basecamp-2021.html"
-    ]
-  },
-  {
     "listing": "/publications.html",
     "items": [
       "/publications/gluteal-tendinopathy-econ-eval.html",
@@ -56,6 +48,14 @@
       "/publications/nepali-adaptation-nprs-groc.html",
       "/publications/qol-burden-knee-oa.html",
       "/publications/elf-cluster-rct-protocol.html"
+    ]
+  },
+  {
+    "listing": "/events.html",
+    "items": [
+      "/events/oa-summit-2023.html",
+      "/events/oa-summit-2022.html",
+      "/events/oa-basecamp-2021.html"
     ]
   }
 ]
