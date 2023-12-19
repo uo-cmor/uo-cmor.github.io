@@ -1,0 +1,46 @@
+---
+title: "Clinicians’ perspectives on planned interventions tested in the Otago MASTER feasibility trial: an implementation-based process evaluation study"
+subtitle: "BMJ Open"
+date: "2023-04-24"
+abstract: |
+  **Objectives**
+  This study reports a process evaluation of the Otago MASTER (MAnagement of Subacromial disorders of The shouldER) feasibility trial. This mixed-methods, process evaluation study was conducted parallel to the Otago MASTER feasibility trial. Our aims were to investigate: (1) supervised treatment fidelity of the interventions and (2) clinicians’ perceptions of the trial interventions through a focus group.
+  
+  **Design**
+  Nested process evaluation study using a mixed-methods approach.
+  
+  **Setting**
+  Outpatient clinic.
+  
+  **Participants**
+  Five clinicians (two men, three women) aged 47–67 years, with clinical experience of 18–43 years and a minimum of postgraduate certificate training, were involved with the delivery of interventions within the feasibility trial. We assessed treatment fidelity for supervised exercises through audit of clinicians’ records and compared those with the planned protocol. Clinicians took part in a focus group that lasted for approximately 1 hour. The focus group was transcribed verbatim and focus group discussion was analysed thematically using an iterative approach.
+  
+  **Results**
+  The fidelity score for the tailored exercise and manual therapy intervention was 80.3% (SD: 7.7%) and for the standardised exercise intervention, 82.9% (SD: 5.9%). Clinicians’ perspectives about the trial and planned intervention were summarised by one main theme ‘conflict experienced between individual clinical practice and the intervention protocol’, which was supported by three subthemes: (1) programme strengths and weaknesses; (2) design-related and administrative barriers; and (3) training-related barriers.
+  
+  **Conclusion**
+  This mixed-methods study assessed supervised treatment fidelity of interventions and clinicians’ perceptions on planned interventions tested in the Otago MASTER feasibility trial. Overall, treatment fidelity was acceptable for both intervention arms; however, we observed low fidelity for certain domains within the tailored exercise and manual therapy intervention. Our focus group identified several barriers clinicians faced while delivering the planned interventions. Those findings are of relevance for planning the definite trial and for researchers conducting feasibility trials.
+  
+  **Trial registration number**
+  ANZCTR: 12617001405303.
+citation: 
+  type: article-journal
+  container-title: "BMJ Open"
+  author:
+    - name:
+        family: Ribeiro
+        given: Daniel C.
+    - name: Amanda Wilkinson
+    - name: Melanie Voney
+    - name: Gisela Sole
+    - name:
+        family: Lamb
+        given: Sarah E.
+    - name:
+        family: Abbott
+        given: J. Haxby
+  volume: 13
+  page: "e067745"
+  issued: 2023
+  doi: 10.1136/bmjopen-2022-067745
+---

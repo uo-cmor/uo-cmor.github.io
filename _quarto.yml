@@ -55,9 +55,3 @@ format:
     toc: true
     appendix-style: plain
     csl: vancouver.csl
-    language:
-      section-title-citation: "Recommended citation:"
-      appendix-attribution-cite-as: " "
-
-
-
