@@ -45,3 +45,7 @@ Phase 4: Should the trial results be positive; we will develop training and impl
 Coppell, Abbott, Skou, Wilson, Bell (kairangahau Māori), Brooking (kairangahau Māori), Tangiora (kairangahau Māori), Wawatai-Aldrich (kairangahau Māori), Bennell.
 
 **Key relationships:** Health Hawkes Bay, Cape Physio Māori Physiotherapists Leah Tuhi, Blake Taylor, Judy Brown; Consumer Advisory Group, Māori Advisory Group (kairangahau Māori above, Cape Physio cultural liaison Brenda Wainohu, locally recruited Māori representatives).
+
+### Would you like information about participating in the trial?
+
+If you have a sore hip or knee as well as at least one other long-term condition (like diabetes, heart disease, high blood pressure, mild-to-moderate depression) **and** you live in Hawkes Bay, [click here](https://uo-cmor.github.io/moa-pip-trial/information-for-participants) to learn more.
