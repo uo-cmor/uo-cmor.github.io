@@ -18,6 +18,26 @@ For more information on this research programme and the projects underway, pleas
 
 Information to be added.
 
+## Other orthopaedic research projects
+
+### Surgical and non-surgical treatments for osteoarthritis
+
+This project investigates the effectiveness and cost-effectiveness of total joint replacement surgery compared to non-surgical care, for patients with late-stage hip or knee osteoarthritis considered for surgery at Dunedin Hospital.
+
+[[Read more](projects/surgery-vs-non-surgery.qmd)]
+
+### Patient reported and clinical outcomes following surgery for proximal humerus fractures
+
+This project aims to explore patients’ experiences of shoulder function relating to activities of daily living and pain following surgery for a broken upper arm.
+
+[[Read more](projects/proximal-humerus-fractures.qmd)]
+
+### clinical audit of patients listed for total hip replacement to ascertain presence of developmental dysplasia of the hip
+
+This project will determine the level of misshaped hip problems in the patients requiring a total hip replacement and describe the demographic characteristics of this group.
+
+[[Read more](projects/hip-dysplasia-audit.qmd)]
+
 ## Osteoarthritis Aotearoa Research Network
 
 ![](_images/OARNet-logo.jpg)

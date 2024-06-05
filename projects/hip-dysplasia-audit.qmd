@@ -1,0 +1,48 @@
+---
+title: "A clinical audit of patients listed for total hip replacement to ascertain presence of developmental dysplasia of the hip"
+toc: false
+---
+
+### Why:
+
+Developmental dysplasia is when the hip joint does not sit smoothly together. Finding and treating a hip problem early in babies can reduce the risk of the development of hip osteoarthritis later in life.
+
+Different countries use different tests to check babies' hips.
+
+In New Zealand, they often use something called the Ortolani and Barlow Test when a baby is a few days old. An ultrasound scan may also be done.
+
+In Europe, using ultrasound scans is routine practice and is a no-radiation scan.
+
+We want to know how often diagnosis is missed in New Zealand to determine if a new approach would work better. This is important because osteoarthritis affects:
+
+* how much pain people have,
+
+* their lifestyle and
+
+* increases the cost to the healthcare system in New Zealand.
+
+Checking how many people had this problem missed who either need or have had hip surgery, will give us evidence to develop ways to better find and treat a misshaped hip in infancy to reduce the risk of osteoarthritis
+
+### Who:
+
+We are going to look at records and X-rays from the past five years in southern New Zealand of patients waiting for or have had a hip replacement.
+
+### What:
+
+We will look at things like:
+
+* age,
+
+* sex,
+
+* ethnicity,
+
+* and we will measure things that show if there is a misshaped hip.
+
+The patients will not be involved, and our study will not change how they are treated.
+
+### How:
+
+Clinicians will take measurements on the x-ray and this information will be analysed to determine if developmental dysplasia is present. We will analyse the age, sex and ethnicity to determine if particular groups of patients are affected.
+
+*This project has been reviewed and approved by the University of Otago Human Ethics Committee (Health). Reference: H24/0084*
